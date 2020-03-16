@@ -1,8 +1,6 @@
-import React, { Component } from "react";
+import React from "react";
  
-class Buy extends Component {
-  render() {
-    return (
+const Buy = () => (
       <div>
         <h2>Buy</h2>
         <p>Mauris sem velit, vehicula eget sodales vitae,
@@ -15,8 +13,6 @@ class Buy extends Component {
           <li>Id porttitor</li>
         </ol>
       </div>
-    );
-  }
-}
+);
  
 export default Buy;

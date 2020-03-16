@@ -1,8 +1,6 @@
-import React, { Component } from "react";
+import React from "react";
  
-class About extends Component {
-  render() {
-    return (
+const About  = () => (
       <div>
         <h2>About</h2>
         <p>Mauris sem velit, vehicula eget sodales vitae,
@@ -15,8 +13,6 @@ class About extends Component {
           <li>Id porttitor</li>
         </ol>
       </div>
-    );
-  }
-}
+);
  
 export default About;

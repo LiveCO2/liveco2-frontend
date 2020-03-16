@@ -1,8 +1,6 @@
-import React, { Component } from "react";
+import React from "react";
  
-class WhoWeAre extends Component {
-  render() {
-    return (
+const WhoWeAre = () => (
       <div>
         <h2>WhoWeAre</h2>
         <p>Mauris sem velit, vehicula eget sodales vitae,
@@ -15,8 +13,6 @@ class WhoWeAre extends Component {
           <li>Id porttitor</li>
         </ol>
       </div>
-    );
-  }
-}
+);
  
 export default WhoWeAre;

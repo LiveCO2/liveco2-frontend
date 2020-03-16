@@ -1,8 +1,6 @@
-import React, { Component } from "react";
+import React from "react";
  
-class Contact extends Component {
-  render() {
-    return (
+const Contact = () => (
       <div>
         <h2>Contact</h2>
         <p>Mauris sem velit, vehicula eget sodales vitae,
@@ -15,8 +13,6 @@ class Contact extends Component {
           <li>Id porttitor</li>
         </ol>
       </div>
-    );
-  }
-}
+);
  
 export default Contact;
