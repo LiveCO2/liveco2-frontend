@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import {
   Route,
   NavLink,
@@ -11,21 +11,16 @@ import About from "./About";
 import HowItWorks from "./HowItWorks";
 import Buy from "./Buy";
 import Sell from "./Sell";
-import WhoWeAre from "./WhoWeAre";
-import Contact from "./Contact";
 
 const Main = () => (
       <BrowserRouter>
         <div>
-          <h1>Buy CO2 absortion rights with us.</h1>
           <ul className="header">
             <li><NavLink exact to="/">Home</NavLink></li>
-            <li><NavLink to="/about-compensate">About compensate</NavLink></li>
             <li><NavLink to="/how-it-works">How it works</NavLink></li>
-            <li><NavLink to="/compensate">I want to compensate my CO2 expent</NavLink></li>
-            <li><NavLink to="/enroll-trees">I have trees and would like to enroll them</NavLink></li>
-            <li><NavLink to="/who-we-are">Who we are</NavLink></li>
-            <li><NavLink to="/contact">Contact</NavLink></li>
+            <li><NavLink to="/compensate">Compensate your CO2</NavLink></li>
+            <li><NavLink to="/enroll-trees">I'm a farmer</NavLink></li>
+            <li><NavLink to="/about-compensate">About compensate</NavLink></li>
           </ul>
         </div>
           <div className="content">
@@ -34,8 +29,6 @@ const Main = () => (
             <Route path="/how-it-works" component={HowItWorks}/>
             <Route path="/compensate" component={Buy}/>
             <Route path="/enroll-trees" component={Sell}/>
-            <Route path="/who-we-are" component={WhoWeAre}/>
-            <Route path="/contact" component={Contact}/>
           </div>
       </BrowserRouter>
 );

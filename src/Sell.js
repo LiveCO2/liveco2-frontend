@@ -1,17 +1,13 @@
 import React from "react";
+import { Trans } from 'react-i18next';
  
 const Sell = () => (
       <div>
-        <h2>Sell</h2>
-        <p>Mauris sem velit, vehicula eget sodales vitae,
-        rhoncus eget sapien:</p>
-        <ol>
-          <li>Nulla pulvinar diam</li>
-          <li>Facilisis bibendum</li>
-          <li>Vestibulum vulputate</li>
-          <li>Eget erat</li>
-          <li>Id porttitor</li>
-        </ol>
+		<p><h2><Trans i18nKey="sell.title"/></h2></p>
+		<p><Trans i18nKey="sell.description"/></p>
+		<p><Trans i18nKey="sell.text1"/></p>
+		<p><Trans i18nKey="sell.text2"/></p>
+		<p><Trans i18nKey="sell.text3"/></p>
       </div>
 );
  

@@ -4,9 +4,11 @@ import { Trans } from 'react-i18next';
 const About  = () => {
 	return (
 	<div>
-		<h2><Trans i18nKey="about.title"/></h2>
-		<Trans i18nKey="about.description"/>
-		<Trans i18nKey="about.text1"/>
+		<p><h2><Trans i18nKey="about.title"/></h2></p>
+		<p><Trans i18nKey="about.description"/></p>
+		<p><Trans i18nKey="about.text1"/></p>
+		<p><Trans i18nKey="about.text2"/></p>
+		<p><Trans i18nKey="about.text3"/></p>
 	</div>
 	)
 };
