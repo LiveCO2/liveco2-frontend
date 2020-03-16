@@ -29,7 +29,7 @@ const Main = () => (
           </ul>
         </div>
           <div className="content">
-            <Route exact to="/" component={Home}/>
+            <Route exact path="/" component={Home}/>
             <Route path="/about-compensate" component={About}/>
             <Route path="/how-it-works" component={HowItWorks}/>
             <Route path="/compensate" component={Buy}/>
