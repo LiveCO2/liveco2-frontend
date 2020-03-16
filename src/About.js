@@ -1,18 +1,22 @@
-import React from "react";
- 
-const About  = () => (
-      <div>
-        <h2>About</h2>
-        <p>Mauris sem velit, vehicula eget sodales vitae,
-        rhoncus eget sapien:</p>
-        <ol>
-          <li>Nulla pulvinar diam</li>
-          <li>Facilisis bibendum</li>
-          <li>Vestibulum vulputate</li>
-          <li>Eget erat</li>
-          <li>Id porttitor</li>
-        </ol>
-      </div>
+import React, { Suspense } from 'react';
+import { Trans } from 'react-i18next';
+
+const About  = () => {
+	return (
+	<div>
+		<h2><Trans i18nKey="about.title"/></h2>
+		<Trans i18nKey="about.description"/>
+		<Trans i18nKey="about.text1"/>
+	</div>
+	)
+};
+
+// i18n translations might still be loaded by the xhr backend
+// use react's Suspense
+export default function App() {
+return (
+<Suspense fallback="loading">
+<About />
+</Suspense>
 );
- 
-export default About;
+}
