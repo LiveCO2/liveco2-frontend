@@ -26,10 +26,42 @@ ul.header li a {
   padding: 20px;
   display: inline-block;
 }
+.containerRowFlexRightText {
+  padding: 20px;
+  display: flex;
+}
+.containerRowFlexRightText > div:first-child {
+	width: 30%;
+ }
+.rowFlexElementRightText {
+  background-color: #FFF;
+  border-radius: 15px;
+  padding: 20px;
+  margin-left: 10px;
+}
+.containerRowFlexLeftText {
+  padding: 20px;
+  display: flex;
+}
+.containerRowFlexLeftText > div:first-child {
+	width: 70%;
+ }
+.rowFlexElementLeftText {
+  background-color: #FFF;
+  border-radius: 15px;
+  padding: 20px;
+  margin-right: 10px;
+}
+.rowFlexElement {
+  background-color: #FFF;
+  border-radius: 15px;
+  padding: 20px;
+}
 .containerRow {
   background-color: #FFF;
   padding: 20px;
   margin: 20px;
+  border-radius: 15px;
 }
 .container-row h2 {
   padding: 0;
