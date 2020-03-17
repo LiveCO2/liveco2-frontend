@@ -11,7 +11,6 @@ import About from "./About";
 import HowItWorks from "./HowItWorks";
 import Buy from "./Buy";
 import Sell from "./Sell";
-//import "./stickyheader";
 
 const Main = () => (
       <BrowserRouter>

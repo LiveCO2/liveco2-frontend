@@ -1,12 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Lora');
 body {
   background-color: rgba(122, 132, 80, 1);
   margin: 0;
 }
 h1, h2, p, ul, li {
-  font-family: sans-serif;
+  font-family: 'Nunito', bold;
 }
 .title {
-	font-family: sans-serif;
+	font-family: 'Lora', regular;
 	color: var(--dos);
 }
 ul.header li {
@@ -61,8 +63,26 @@ ul.header li a {
 .containerRow {
   background-color: #FFF;
   padding: 20px;
+  padding-left: 35px;
   margin: 20px;
   border-radius: 15px;
+  display: flex;
+}
+.containerRowCards {
+  padding: 20px;
+  padding-left: 35px;
+  margin: 20px;
+  border-radius: 15px;
+  display: flex;
+}
+.rowCard {
+  background-color: #FFF;
+  border-radius: 15px;
+  padding: 20px;
+  margin: 15px;
+  font-family: 'Nunito', bold;
+  font-size: 10px;
+  text-align: center;
 }
 .container-row h2 {
   padding: 0;
@@ -72,10 +92,15 @@ ul.header li a {
   margin-bottom: 10px;
 }
 .active {
-  background-color: #0099FF;
+  background-color: rgba(82, 70, 50, 1);
 }
 
 :root {
 	--one: rgba(27, 48, 34, 1);
 	--dos: rgba(82, 70, 50, 1);
+}
+
+.image {
+	display: block;
+	margin: auto;
 }
