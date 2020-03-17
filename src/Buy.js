@@ -2,7 +2,7 @@ import React from "react";
 import { Trans } from 'react-i18next';
  
 const Buy = () => (
-      <div class="container-row">
+      <div class="containerRow">
 		<p><h2><Trans i18nKey="buy.title"/></h2></p>
 		<p><Trans i18nKey="buy.description"/></p>
 		<p><Trans i18nKey="buy.text1"/></p>

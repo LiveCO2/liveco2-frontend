@@ -2,7 +2,7 @@ import React from "react";
  
 const Home = () => (
 	<div>
-		<div class="container-row">
+		<div class="containerRow">
 			<div>
 				<h2 class="title">HELLO</h2>
 				<p>Cras facilisis urna ornare ex volutpat, et
@@ -15,7 +15,7 @@ const Home = () => (
 				<p>Duis a turpis sed lacus dapibus elementum sed eu lectus.</p>
 			</div>
 		</div>
-		<div class="container-row">
+		<div class="containerRow">
 			<div>
 				<h2 class="title">HELLO</h2>
 				<p>Cras facilisis urna ornare ex volutpat, et
@@ -28,7 +28,7 @@ const Home = () => (
 				<p>Duis a turpis sed lacus dapibus elementum sed eu lectus.</p>
 			</div>
 		</div>
-		<div class="container-row">
+		<div class="containerRow">
 			<div>
 				<h2 class="title">HELLO</h2>
 				<p>Cras facilisis urna ornare ex volutpat, et
@@ -41,7 +41,7 @@ const Home = () => (
 				<p>Duis a turpis sed lacus dapibus elementum sed eu lectus.</p>
 			</div>
 		</div>
-		<div class="container-row">
+		<div class="containerRow">
 			<div>
 				<h2 class="title">HELLO</h2>
 				<p>Cras facilisis urna ornare ex volutpat, et

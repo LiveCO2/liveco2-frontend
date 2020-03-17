@@ -3,7 +3,7 @@ import { Trans } from 'react-i18next';
 
 const About  = () => {
 	return (
-	<div class="container-row">
+	<div class="containerRow">
 		<p><h2><Trans i18nKey="about.title"/></h2></p>
 		<p><Trans i18nKey="about.description"/></p>
 		<p><Trans i18nKey="about.text1"/></p>
