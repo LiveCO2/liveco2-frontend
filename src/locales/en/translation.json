@@ -16,17 +16,31 @@
   "buy" : {
 	  "title": "Compensate your CO2 expenditure",
 	  "description": "You can buy rights for CO2 absortion",
-	  "text1": "",
-	  "text2": "",
-	  "text3": ""
+	  "text1": "dfdfd",
+	  "text2": "dfdf",
+	  "text3": "dfdf"
   },
   "works" : {
 	  "title": "Here you can learn how our project works",
 	  "description": "You can buy rights for CO2 absortion",
-	  "text1": "",
-	  "text2": "",
-	  "text3": ""
+	  "text1": "asas",
+	  "text2": "asasas",
+	  "text3": "asasas"
+  },
+  "home": {
+	"box1": {
+		"title": "Start compensating your CO2 expenditure now!",
+		"text1": "Using our platform, you can buy rights of CO2 abosortion for the amount of CO2 you want. This money will go to farmers ensuring that the tree are properly feeded and cared.",
+		"text2": "Different trees can absorb different amounts of CO2 based on the kind of tree and the size of it",
+		"text3": "You can choose between a big variety of trees and locations"
+	},
+	"box2": {
+		"title": "Meet our farmers!",
+		"text1": "We employ many farmers, all of them have something in common: their respect for the enviroment and their dream to achieve a more resources-responsible society and a healthier planet Earth."
+	},
+	"box3": {
+		"title": "Here is how to get started:",
+		"text1": "You can get started today compensating for the car trip you did this morning, or even give to some loved one a present compensating their CO2 emissions. Click here and buy the pack more convenient to you"
+	}
   }
-
-
 }

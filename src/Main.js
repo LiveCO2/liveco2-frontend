@@ -11,10 +11,11 @@ import About from "./About";
 import HowItWorks from "./HowItWorks";
 import Buy from "./Buy";
 import Sell from "./Sell";
+//import "./stickyheader";
 
 const Main = () => (
       <BrowserRouter>
-        <div>
+        <div id="mainHeader">
           <ul className="header">
             <li><NavLink exact to="/">Home</NavLink></li>
             <li><NavLink to="/how-it-works">How it works</NavLink></li>

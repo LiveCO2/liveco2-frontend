@@ -1,9 +1,9 @@
-import React from "react";
+import React from 'react';
 import { Trans } from 'react-i18next';
  
 const Sell = () => (
-      <div class="containerRow">
-		<p><h2><Trans i18nKey="sell.title"/></h2></p>
+      <div className="containerRow">
+	      <h2><p><Trans i18nKey="sell.title"/></p></h2>
 		<p><Trans i18nKey="sell.description"/></p>
 		<p><Trans i18nKey="sell.text1"/></p>
 		<p><Trans i18nKey="sell.text2"/></p>

@@ -1,10 +1,10 @@
-import React, { Suspense } from 'react';
+import React from 'react';
 import { Trans } from 'react-i18next';
 
 const About  = () => {
 	return (
-	<div class="containerRow">
-		<p><h2><Trans i18nKey="about.title"/></h2></p>
+	<div className="containerRow">
+		<h2><p><Trans i18nKey="about.title"/></p></h2>
 		<p><Trans i18nKey="about.description"/></p>
 		<p><Trans i18nKey="about.text1"/></p>
 		<p><Trans i18nKey="about.text2"/></p>
@@ -13,12 +13,4 @@ const About  = () => {
 	)
 };
 
-// i18n translations might still be loaded by the xhr backend
-// use react's Suspense
-export default function App() {
-return (
-<Suspense fallback="loading">
-<About />
-</Suspense>
-);
-}
+export default About;
