@@ -4,6 +4,7 @@ import {
     NavLink,
     BrowserRouter
 } from "react-router-dom";
+import { Trans } from 'react-i18next';
 
 
 import Home from "./Home";
@@ -16,11 +17,12 @@ const Main = () => (
     <BrowserRouter>
         <div id="mainHeader">
             <ul className="header">
-                <li><NavLink exact to="/">Home</NavLink></li>
-                <li><NavLink to="/how-it-works">How it works</NavLink></li>
-                <li><NavLink to="/compensate">Compensate your CO2</NavLink></li>
-                <li><NavLink to="/enroll-trees">I'm a farmer</NavLink></li>
-                <li><NavLink to="/about-compensate">About compensate</NavLink></li>
+                <li><NavLink exact to="/"><Trans i18nKey="header.home"/></NavLink></li>
+                <li><NavLink to="/how-it-works"><Trans i18nKey="header.how-it-works"/></NavLink></li>
+                <li><NavLink to="/compensate"><Trans i18nKey="header.compensate"/></NavLink></li>
+                <li><NavLink to="/enroll-trees"><Trans i18nKey="header.enroll-trees"/></NavLink></li>
+                <li><NavLink to="/faq"><Trans i18nKey="header.faq"/></NavLink></li>
+                <li><NavLink to="/about-compensate"><Trans i18nKey="header.about"/></NavLink></li>
             </ul>
         </div>
         <div className="content">

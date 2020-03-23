@@ -1,106 +1,168 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito');
 @import url('https://fonts.googleapis.com/css?family=Lora');
 body {
-  background-color: rgba(122, 132, 80, 1);
-  margin: 0;
+    background-color: rgba(122, 132, 80, 1);
+    margin: 0;
 }
 h1, h2, p, ul, li {
-  font-family: 'Nunito', bold;
+    font-family: 'Nunito', bold;
 }
 .title {
-	font-family: 'Lora', regular;
-	color: var(--dos);
+    font-family: 'Lora', regular;
+    color: var(--dos);
 }
 ul.header li {
-  display: inline;
-  list-style-type: none;
-  margin: 0;
+    display: inline;
+    list-style-type: none;
+    margin: 0;
 }
 ul.header {
-  background-color: rgba(27, 48, 34, 1);
-  padding: 0;
-  margin: 0;
-  padding-left: 30px;
+    background-color: rgba(27, 48, 34, 1);
+    padding: 0;
+    margin: 0;
+    padding-left: 30px;
 }
 ul.header li a {
-  color: #FFF;
-  font-weight: bold;
-  text-decoration: none;
-  padding: 20px;
-  display: inline-block;
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+}
+p {
+    font-family: 'Lora', bold;
+    font-size: 14px;
 }
 .containerRowFlexRightText {
-  padding: 20px;
-  display: flex;
+    padding: 20px;
+    display: flex;
 }
 .containerRowFlexRightText > div:first-child {
-  width: 30%;
- }
+    width: 30%;
+}
 .rowFlexElementRightText {
-  background-color: #FFF;
-  border-radius: 15px;
-  padding: 20px;
-  margin-left: 10px;
+    background-color: #FFF;
+    border-radius: 15px;
+    padding: 20px;
+    margin-left: 10px;
 }
 .containerRowFlexLeftText {
-  padding: 20px;
-  display: flex;
+    padding: 20px;
+    display: flex;
 }
 .containerRowFlexLeftText > div:first-child {
-	width: 70%;
- }
+    width: 70%;
+}
 .rowFlexElementLeftText {
-  background-color: #FFF;
-  border-radius: 15px;
-  padding: 20px;
-  margin-right: 10px;
+    background-color: #FFF;
+    border-radius: 15px;
+    padding: 20px;
+    margin-right: 10px;
 }
 .rowFlexElement {
-  background-color: #FFF;
-  border-radius: 15px;
-  padding: 20px;
+    background-color: #FFF;
+    border-radius: 15px;
+    padding: 20px;
 }
 .containerRow {
-  background-color: #FFF;
-  padding: 20px;
-  padding-left: 35px;
-  margin: 20px;
-  border-radius: 15px;
-  display: flex;
+    background-color: #FFFDD0;
+    padding: 20px;
+    padding-left: 35px;
+    margin: 20px;
+    border-radius: 15px;
+    display: flex;
 }
 .containerRowCards {
-  padding: 20px;
-  padding-left: 35px;
-  margin: 20px;
-  border-radius: 15px;
-  display: flex;
+    padding: 20px;
+    padding-left: 35px;
+    margin: 20px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
 }
 .rowCard {
-  background-color: #FFF;
-  border-radius: 15px;
-  padding: 20px;
-  margin: 15px;
-  font-family: 'Nunito', bold;
-  font-size: 10px;
-  text-align: center;
+    background-color: #FFF;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 15px;
+    font-family: 'Nunito', bold;
+    font-size: 10px;
+    text-align: center;
+    width: 30%;
+}
+.rowCardItem {
+    display: flex;
+    padding-left: 30px;
+    font-family: 'Lora', bold;
+}
+.rowCardItemAmount {
+    margin-left: 20px;
+    margin-right: 10px;
+    font-family: 'Lora', bold;
+    font-size: 15px;
+}
+.rowCardItemText {
+    font-family: 'Lora', bold;
+    font-size: 15px;
+}
+.rowCardTitle {
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+.rowCardButton {
+    margin-top: 20px;
+    font-size: 16px;
+}
+a.rowCardButton {
+    background-color:#4ef18f;
+    display:inline-block;
+    padding:0.3em 1.2em;
+    margin:0 0.1em 0.1em 0;
+    border:0.55em solid rgba(255,255,255,0);
+    border-radius:2em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Nunito',sans-serif;
+    font-weight:300;
+    color:#FFFFFF;
+    text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
+    text-align:center;
+    transition: all 0.2s;
+}
+a.rowCardButton:hover{
+    border-color: rgba(255,255,255,1);
+}
+@media all and (max-width:30em){
+    a.rowCardButton{
+        display:block;
+        margin:0.2em auto;
+    }
 }
 .container-row h2 {
-  padding: 0;
-  margin: 0;
+    padding: 0;
+    margin: 0;
 }
 .container-row li {
-  margin-bottom: 10px;
+    margin-bottom: 10px;
 }
 .active {
-  background-color: rgba(82, 70, 50, 1);
+    background-color: rgba(82, 70, 50, 1);
 }
 
 :root {
-	--one: rgba(27, 48, 34, 1);
-	--dos: rgba(82, 70, 50, 1);
+    --one: rgba(27, 48, 34, 1);
+    --dos: rgba(82, 70, 50, 1);
 }
 
 .image {
-	display: block;
-	margin: auto;
+    display: block;
+    margin: auto;
+}
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
 }

@@ -1,76 +1,86 @@
 {
-  "about" : {
-	  "title": "About Compensate",
-	  "description": "We are a group of individuals looking for make an impact fighting the global warming.",
-	  "text1": "Worried about the impact of global warming in our societies, we started in 2019 our project for creating a global marketplace of CO2 emissions. We envision this as a way to grow more trees choosing varieties with absorb high amount of CO2 and have a low footprint incentiveting it through a whole new economy.",
-	  "text2": "Using our services, people all over the world can buy rights of CO2 absortion, and so contributing to balance their carbon emissions footprint.",
-	  "text3": "The money that rights costs are going to farmers who are signing a public contract where they commit to take very well care of the trees, using only environmental friendly products, building fire protections."
-  },
-  "sell" : {
-	  "title": "I have trees and I want to get into the pool",
-	  "description": "If you have trees or would like to start planting them, taking care of them and want to get money for the amount that your trees absorb, keep reading",
-	  "text1": "Our agricoultours and farmers are people enganged with the environment who really want to make a change in the fight with the climate change.",
-	  "text2": "In order to put your trees into the pool, and start getting compensation money you have to first apply to us. We have agricultural engineers in our team who will review your land and make a study to understand the number and size of the different trees, and will make an estimation of how much compensation money you can get per month",
-	  "text3": "After that, we will come back to you with an answer, if the trees in your land are qualifying for our project, we will sign a public contract to set the expectations from both parts"
-  },
-  "buy" : {
-	  "title": "Compensate your CO2 expenditure",
-	  "description": "You can buy rights for CO2 absortion",
-	  "text1": "dfdfd",
-	  "text2": "dfdf",
-	  "text3": "dfdf"
-  },
-  "works" : {
-	  "title": "Here you can learn how our project works",
-	  "description": "You can buy rights for CO2 absortion",
-	  "text1": "asas",
-	  "text2": "asasas",
-	  "text3": "asasas"
-  },
-  "home": {
-	  "card1": {
-		  "title": "Did you know that a human generates a total of 6.6 CO2 Tons per year?",
-		  "item1": {
-			  "amount": "2.3",
-			  "concept": "food"
-		  },
-		  "item2": {
-			  "amount": "2.7",
-			  "concept": "clothes and heating"
-		  },
-		  "item3": {
-			  "amount": "1.88",
-			  "concept": "Transport"
-		  }
-	  },
-	  "card2": {
-		  "title": "Different trees can absorb different amounts of CO2",
-		  "item1": {
-			  "amount": "2.3",
-			  "concept": "Pine"
-		  },
-		  "item2": {
-			  "amount": "13.5",
-			  "concept": "Abeto"
-		  },
-		  "item3": {
-			  "amount": "1.88",
-			  "concept": "Olivo"
-		  }
-	  },
-	"box1": {
-		"title": "Start compensating your CO2 expenditure now!",
-		"text1": "Using our platform, you can buy rights of CO2 abosortion for the amount of CO2 you want. This money will go to farmers ensuring that the tree are properly feeded and cared.",
-		"text2": "Different trees can absorb different amounts of CO2 based on the kind of tree and the size of it",
-		"text3": "You can choose between a big variety of trees and locations"
-	},
-	"box2": {
-		"title": "Meet our farmers!",
-		"text1": "We employ many farmers, all of them have something in common: their respect for the enviroment and their dream to achieve a more resources-responsible society and a healthier planet Earth."
-	},
-	"box3": {
-		"title": "Here is how to get started:",
-		"text1": "You can get started today compensating for the car trip you did this morning, or even give to some loved one a present compensating their CO2 emissions. Click here and buy the pack more convenient to you"
-	}
-  }
+    "header": {
+        "home": "Home",
+        "how-it-works": "How it works",
+        "compensate": "Contribute to absorb CO2",
+        "enroll-trees": "I'm a farmer",
+        "about": "About compensate",
+        "faq": "FAQ"
+    },
+    "about" : {
+        "title": "About Compensate",
+        "description": "We are a group of individuals looking for make an impact fighting the global warming.",
+        "text1": "Worried about the impact of global warming in our societies, we started in 2019 our project for creating a global marketplace of CO2 emissions. We envision this as a way to grow more trees choosing varieties with absorb high amount of CO2 and have a low footprint incentiveting it through a whole new economy.",
+        "text2": "Using our services, people all over the world can buy rights of CO2 absortion, and so contributing to balance their carbon emissions footprint.",
+        "text3": "The money that rights costs are going to farmers who are signing a public contract where they commit to take very well care of the trees, using only environmental friendly products, building fire protections."
+    },
+    "sell" : {
+        "title": "I have trees and I want to get into the pool",
+        "description": "If you have trees or would like to start planting them, taking care of them and want to get money for the amount that your trees absorb, keep reading",
+        "text1": "Our agricoultours and farmers are people enganged with the environment who really want to make a change in the fight with the climate change.",
+        "text2": "In order to put your trees into the pool, and start getting compensation money you have to first apply to us. We have agricultural engineers in our team who will review your land and make a study to understand the number and size of the different trees, and will make an estimation of how much compensation money you can get per month",
+        "text3": "After that, we will come back to you with an answer, if the trees in your land are qualifying for our project, we will sign a public contract to set the expectations from both parts"
+    },
+    "buy" : {
+        "title": "Compensate your CO2 expenditure",
+        "description": "You can buy rights for CO2 absortion",
+        "text1": "dfdfd",
+        "text2": "dfdf",
+        "text3": "dfdf"
+    },
+    "works" : {
+        "title": "Here you can learn how our project works",
+        "description": "You can buy rights for CO2 absortion",
+        "text1": "asas",
+        "text2": "asasas",
+        "text3": "asasas"
+    },
+    "home": {
+        "card1": {
+            "title": "Did you know that a human generates a total of 6.6 CO2 Tons per year?",
+            "item1": {
+                "amount": "2.3",
+                "concept": "Food"
+            },
+            "item2": {
+                "amount": "2.7",
+                "concept": "Clothes and heating"
+            },
+            "item3": {
+                "amount": "1.8",
+                "concept": "Transport"
+            },
+            "button": "Start compensating now"
+        },
+        "card2": {
+            "title": "Different trees can absorb different amounts of CO2",
+            "item1": {
+                "amount": "2.3",
+                "concept": "Pine"
+            },
+            "item2": {
+                "amount": "13.5",
+                "concept": "Abeto"
+            },
+            "item3": {
+                "amount": "1.88",
+                "concept": "Olivo"
+            },
+            "button": "Learn more"
+        },
+        "box1": {
+            "title": "Start compensating your CO2 expenditure now!",
+            "text1": "Using our platform, you can buy rights of CO2 abosortion for the amount of CO2 you want. This money will go to farmers ensuring that the tree are properly feeded and cared.",
+            "text2": "Different trees can absorb different amounts of CO2 based on the kind of tree and the size of it",
+            "text3": "You can choose between a big variety of trees and locations"
+        },
+        "box2": {
+            "title": "Meet our farmers!",
+            "text1": "We employ many farmers, all of them have something in common: their respect for the enviroment and their dream to achieve a more resources-responsible society and a healthier planet Earth."
+        },
+        "box3": {
+            "title": "Here is how to get started:",
+            "text1": "You can get started today compensating for the car trip you did this morning, or even give to some loved one a present compensating their CO2 emissions. Click here and buy the pack more convenient to you"
+        }
+    }
 }
