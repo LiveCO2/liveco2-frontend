@@ -32,6 +32,8 @@ const Main = () => (
             <Route path="/compensate" component={Buy}/>
             <Route path="/enroll-trees" component={Sell}/>
         </div>
+        <div className="footer">
+        </div>
     </BrowserRouter>
 );
 

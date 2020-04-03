@@ -1,0 +1,85 @@
+{
+    "header": {
+        "home": "Home",
+        "how-it-works": "Como funciona",
+        "compensate": "Contribuye",
+        "enroll-trees": "Soy un agricultor",
+        "about": "Sobre nosotros",
+        "faq": "FAQ"
+    },
+    "about" : {
+        "title": "Sobre nosotros",
+        "description": "Somos un grupo de individuos comprometidos con la lucha por el cambio climatico que usando nuevas ideas y tecnologias quiere tener un impacto en esta lucha",
+        "text1": "Worried about the impact of global warming in our societies, we started in 2019 our project for creating a global marketplace of CO2 emissions. We envision this as a way to grow more trees choosing varieties with absorb high amount of CO2 and have a low footprint incentiveting it through a whole new economy.",
+        "text2": "Using our services, people all over the world can buy rights of CO2 absortion, and so contributing to balance their carbon emissions footprint.",
+        "text3": "The money that rights costs are going to farmers who are signing a public contract where they commit to take very well care of the trees, using only environmental friendly products, building fire protections."
+    },
+    "sell" : {
+        "title": "I have trees and I want to get into the pool",
+        "description": "If you have trees or would like to start planting them, taking care of them and want to get money for the amount that your trees absorb, keep reading",
+        "text1": "Our agricoultours and farmers are people enganged with the environment who really want to make a change in the fight with the climate change.",
+        "text2": "In order to put your trees into the pool, and start getting compensation money you have to first apply to us. We have agricultural engineers in our team who will review your land and make a study to understand the number and size of the different trees, and will make an estimation of how much compensation money you can get per month",
+        "text3": "After that, we will come back to you with an answer, if the trees in your land are qualifying for our project, we will sign a public contract to set the expectations from both parts"
+    },
+    "buy" : {
+        "title": "Compensate your CO2 expenditure",
+        "description": "You can buy rights for CO2 absortion",
+        "text1": "dfdfd",
+        "text2": "dfdf",
+        "text3": "dfdf"
+    },
+    "works" : {
+        "title": "Here you can learn how our project works",
+        "description": "You can buy rights for CO2 absortion",
+        "text1": "asas",
+        "text2": "asasas",
+        "text3": "asasas"
+    },
+    "home": {
+        "card1": {
+            "title": "Sabias que una persona genera al anyo 6.6 Toneladas de CO2?",
+            "item1": {
+                "amount": "2.3",
+                "concept": "Comida"
+            },
+            "item2": {
+                "amount": "2.7",
+                "concept": "Ropa y calefaccion","
+            },
+            "item3": {
+                "amount": "1.88",
+                "concept": "Transporte"
+            }
+        },
+        "card2": {
+            "title": "Cada arbol absorbe diferentes cantidades de CO2",
+            "item1": {
+                "amount": "2.3",
+                "concept": "Pino"
+            },
+            "item2": {
+                "amount": "13.5",
+                "concept": "Abeto"
+            },
+            "item3": {
+                "amount": "1.88",
+                "concept": "Olivo"
+            }
+        },
+        "box1": {
+            "title": "Empieza a compensar tus emisiones de CO2 ahora!!",
+            "text1": "Usando nuestra plataforma, puede comprar derechos de absorcion de CO2. Con este dinero estas financiando a un agricultor para mantener cuidado el arbol o arboles que tu elijas",
+            "text2": "Existen arboles con diferentes propiedades, entre las que destacan alta abosorcion de CO2 y baja huella medioambiental para su cultivo",
+            "text3": "Con nosotros, podras decidir que tipo de arboles quieres, y donde quieres que este localizado"
+        },
+        "box2": {
+            "title": "Conoce a nuestros agricultores!",
+            "text1": "Nosotros trabajamos con muchos agricultores en Europa, y todos ellos tienen algo en comun: el respeto por la naturaleza, y su suenyo por un planeta tierra verde y ecologicamente sostenible."
+        },
+        "box3": {
+            "title": "Asi es como puedes empezar a compensar por tus emisiones de CO2",
+            "text1": "You can get started today compensating for the car trip you did this morning, or even give to some loved one a present compensating their CO2 emissions. Click here and buy the pack more convenient to you"
+            "text1": "Para empezar, puedes compensar el CO2 que has generado yendo al trabajo, o regalar a algun ser querido este regalo"
+        }
+    }
+}
