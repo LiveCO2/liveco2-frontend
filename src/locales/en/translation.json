@@ -37,7 +37,7 @@
     },
     "home": {
         "card1": {
-            "title": "Did you know that a human generates a total of 6.6 CO2 Tons per year?",
+            "title": "Did you know that a human generates 6.6 CO2 Tons per year?",
             "item1": {
                 "amount": "2.3",
                 "concept": "Food"
@@ -72,7 +72,8 @@
             "title": "Start compensating your CO2 expenditure now!",
             "text1": "Using our platform, you can buy rights of CO2 abosortion for the amount of CO2 you want. This money will go to farmers ensuring that the tree are properly feeded and cared.",
             "text2": "Different trees can absorb different amounts of CO2 based on the kind of tree and the size of it",
-            "text3": "You can choose between a big variety of trees and locations"
+            "text3": "You can choose between a big variety of trees and locations",
+            "button": "Browse trees and locations"
         },
         "box2": {
             "title": "Meet our farmers!",
