@@ -7,6 +7,12 @@ body {
 h1, h2, p, ul, li {
     font-family: 'Nunito', bold;
 }
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .title {
     font-family: 'Lora', regular;
     color: var(--dos);
@@ -90,21 +96,22 @@ p {
     align-self: center;
 }
 .card {
-    background-color: rgba(255, 255, 255, 0.9);  
+    background-color: rgba(255, 255, 255, 0.9);
     border-radius: 15px;
-    padding: 20px;
-    margin: 15px;
-    font-family: 'Nunito', bold;
+    padding: 30px 20px;
+    margin: 0 15px;
     font-size: 10px;
     text-align: center;
     width: 30%;
-    height: 50%;
+    height: auto;
     max-width: 290px;
 }
 .cardListItem {
     display: flex;
-    padding-left: 30px;
+    padding: 12px;
     font-family: 'Lora', bold;
+    align-items: center;
+    margin-left: 30px;
 }
 .cardListItemAmount {
     margin-left: 20px;
@@ -119,6 +126,7 @@ p {
 .cardTitle {
     padding: 10px;
     border-bottom: 1px solid black;
+    margin-bottom: 15px;
 }
 .button {
     margin-top: 20px;
