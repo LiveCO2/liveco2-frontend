@@ -1,6 +1,7 @@
 import React from 'react';
 import { Trans } from 'react-i18next';
 
+import Button from './Button';
 import legoFarmer from './images/farmer-lego-with-plants.jpeg'
 import legoForest from './images/lego-forest-removebg-preview.png'
 import iconCarrot from './icons/carrot.svg'
@@ -31,9 +32,7 @@ const Home = () => (
                     <p className="cardListItemAmount"><Trans i18nKey="home.card1.item3.amount"/></p>
                     <p className="cardListItemText"><Trans i18nKey="home.card1.item3.concept"/></p>
                 </div>
-                <div className="button">
-                    <a href="compensate" className="button"><Trans i18nKey="home.card1.button"/></a>
-                </div>
+                <Button link="compensate" tk="home.card1.button" />
             </div>
             <div className="card">
                 <h2 className="cardTitle"><Trans i18nKey="home.card2.title"/></h2>
@@ -53,9 +52,7 @@ const Home = () => (
                     <p className="cardListItemAmount"><Trans i18nKey="home.card2.item3.amount"/></p>
                     <p className="cardListItemText"><Trans i18nKey="home.card2.item3.concept"/></p>
                 </div>
-                <div className="button">
-                    <a href="how-it-works" className="button"><Trans i18nKey="home.card2.button"/></a>
-                </div>
+                <Button link="how-it-works" tk="home.card2.button" />
             </div>
         </div>
 

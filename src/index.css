@@ -128,13 +128,10 @@ p {
     border-bottom: 1px solid black;
     margin-bottom: 15px;
 }
-.button {
-    margin-top: 20px;
-    font-size: 16px;
-}
-a.button {
-    background-color:#4ef18f;
-    color: black;
+
+/* .button {
+    background-color:#66BB6A;
+    color: white;
     display:inline-block;
     padding:0.3em 1.2em;
     margin:0 0.1em 0.1em 0;
@@ -144,10 +141,12 @@ a.button {
     text-decoration:none;
     font-family:'Nunito',sans-serif;
     font-weight:300;
-    text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
     text-align:center;
     transition: all ease 0.2s;
+    margin-top: 20px;
+    font-size: 16px;
 }
+
 a.button:hover{
 -webkit-box-shadow: 0px -8px 5px -3px rgba(197,235,201,0.72);
 -moz-box-shadow: 0px -8px 5px -3px rgba(197,235,201,0.72);
@@ -159,7 +158,7 @@ box-shadow: 0px -8px 5px -3px rgba(197,235,201,0.72);
         display:block;
         margin:0.2em auto;
     }
-}
+} */
 .container-row h2 {
     padding: 0;
     margin: 0;
@@ -180,11 +179,11 @@ box-shadow: 0px -8px 5px -3px rgba(197,235,201,0.72);
     display: block;
     margin: auto;
 }
-a.button {
+/* a.button {
     -webkit-appearance: button;
     -moz-appearance: button;
     appearance: button;
 
     text-decoration: none;
     color: initial;
-}
+} */
