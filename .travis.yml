@@ -1,0 +1,16 @@
+language: node_js
+node_js:
+  - "stable"
+cache:
+  directories:
+    - node_modules
+script:
+  - npm test
+  - npm run build
+deploy:
+    provider: pages:git
+    token: "imxKW3iegWIzQlBrQuTt/woECK+/MsgXX0OrQxwhNzEu3PDUvuwPwE+Bbp8VQ3w2tkFyiBvM2XltKdCc95X1vr8h0CT+kcwZKhMaJf00xnpS8E+pHxVZkrmAsecFAZj+CtqVrjVYSe18/7tvaR69IpNY83xFpg8oF78swFDN6PjEtEzychsyF1bHc/FCj170qt8mShAau9aqf6tqhmjZwlg0qevYqQ6PUkwYhIBYfVedT3zwtbVrzvI6NmEhnXlvFDWsghbksFk/9uCBDTE+kF1DcAnlKzDB3vcYb6Tx9ndRWjaQY/1tAP32fkPpV6L0mHz4wtqpge8cxcwiW+HXdKN9V1T9rcD49/n/mJyoEeJ6IdAVKV1wQVZzzGMMBtpsqdDwCrtCSfONqq1umiu4FdEbx281BjgGpEyGIVEA/05D9YSDcVel6q+z/itk0U10ZyZafpOhFQFu/ahUfguRfouBLEgW0lvlIkAfc+QwPScc7A2dujAisYLINtRGeZQTfo664KdeLk240pQniwtMoQ+wzfZ0mJGjY1S5U++0UPNfYt2jZXTSp1URxlUofcqyU0HLniJPXs6vo6l9QQ5eBjt01If/l19S/gNS8rh7ohUurW6+ZODsqvxGF5vSAiiU/DgzRLDHXBcEW9OLfDNrNgc+/ktLjOLsJI1RPtq52Lg="
+    edge: true
+  project: ./build/
+on:
+  branch: master
