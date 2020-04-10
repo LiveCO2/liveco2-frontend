@@ -1,4 +1,4 @@
-https://travis-ci.org/The-smooth-operator/compensate.svg?branch=master
+[![Build Status](https://travis-ci.org/The-smooth-operator/compensate.svg?branch=master)](https://travis-ci.org/The-smooth-operator/compensate)
 
 # The CO2 Fight public Website
 
