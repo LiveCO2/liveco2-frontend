@@ -7,6 +7,7 @@ import {
 import { Trans } from 'react-i18next';
 
 
+import Header from "./Header";
 import Home from "./Home";
 import About from "./About";
 import HowItWorks from "./HowItWorks";
@@ -15,16 +16,7 @@ import Sell from "./Sell";
 
 const Main = () => (
     <BrowserRouter>
-        <div id="mainHeader">
-            <ul className="header">
-                <li><NavLink exact to="/"><Trans i18nKey="header.home"/></NavLink></li>
-                <li><NavLink to="/how-it-works"><Trans i18nKey="header.how-it-works"/></NavLink></li>
-                <li><NavLink to="/compensate"><Trans i18nKey="header.compensate"/></NavLink></li>
-                <li><NavLink to="/enroll-trees"><Trans i18nKey="header.enroll-trees"/></NavLink></li>
-                <li><NavLink to="/faq"><Trans i18nKey="header.faq"/></NavLink></li>
-                <li><NavLink to="/about-compensate"><Trans i18nKey="header.about"/></NavLink></li>
-            </ul>
-        </div>
+        <Header/>
         <div className="content">
             <Route exact path="/" component={Home}/>
             <Route path="/about-compensate" component={About}/>

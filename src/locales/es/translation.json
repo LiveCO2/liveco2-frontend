@@ -37,19 +37,20 @@
     },
     "home": {
         "card1": {
-            "title": "Sabias que una persona genera al anyo 6.6 Toneladas de CO2?",
+            "title": "Sabias que cada persona genera 6.6 Toneladas de CO2 al año?",
             "item1": {
                 "amount": "2.3",
                 "concept": "Comida"
             },
             "item2": {
                 "amount": "2.7",
-                "concept": "Ropa y calefaccion","
+                "concept": "Ropa y calefaccion"
             },
             "item3": {
                 "amount": "1.88",
                 "concept": "Transporte"
-            }
+            },
+            "button": "Empieza a compensar ahora"
         },
         "card2": {
             "title": "Cada arbol absorbe diferentes cantidades de CO2",
@@ -64,21 +65,24 @@
             "item3": {
                 "amount": "1.88",
                 "concept": "Olivo"
-            }
+            },
+            "button": "Empieza a compensar ahora"
         },
         "box1": {
-            "title": "Empieza a compensar tus emisiones de CO2 ahora!!",
-            "text1": "Usando nuestra plataforma, puede comprar derechos de absorcion de CO2. Con este dinero estas financiando a un agricultor para mantener cuidado el arbol o arboles que tu elijas",
-            "text2": "Existen arboles con diferentes propiedades, entre las que destacan alta abosorcion de CO2 y baja huella medioambiental para su cultivo",
-            "text3": "Con nosotros, podras decidir que tipo de arboles quieres, y donde quieres que este localizado"
+            "title": "Compra Toneladas Absorbidas de CO2 con nosotros.",
+            "text1": "Usando nuestra plataforma puedes comprar Toneladas aborbidas de CO2. Nuestros ingenieros certifican el producto meticulosamente y con precision.",
+            "text2": "Arboles absorben diferentes cantidades de CO2 segun su tipo. Nosotros trabajamos principalmente con el Pino Carrasco ya que aporta la mejor relacion entre Toneladas de CO2 absorbidas e impacto medioambiental.",
+            "text3": "El cambio empieza en cada uno de nosotros. Solo la sociedad unida y concienciada puede llevar a cabo una tarea como la lucha contra el cambio climatico. Unete a nosotros y ayudanos a conseguir un planeta mas limpio y saludable."
         },
         "box2": {
-            "title": "Conoce a nuestros agricultores!",
-            "text1": "Nosotros trabajamos con muchos agricultores en Europa, y todos ellos tienen algo en comun: el respeto por la naturaleza, y su suenyo por un planeta tierra verde y ecologicamente sostenible."
+            "title": "The CO2 Fight",
+            "text1": "The CO2 Fight nace con el objetivo de dar valor a uno de los valores mas importantes que nos proporcionan los arboles: su absorcion de carbono.",
+            "text2": "Vivimos en un mundo avanzado: tenemos transportes que conectan a las personas, tenemos fabricas que son capaces de abastecer a ciudades enteras, y cada uno de nosotros dispone de un sinfin de aparatos electronicos que nos ayudan a comunicarnos, trabajar e incluso medir nuestro ejercicio fisico.",
+            "text3": "Este estilo de vida tiene un coste muy alto para la salud de nuestro planeta. Y como los expertos no se cansan de decir: debemos hacer cambios para salvar al planeta, y las vidas de nuestros hijos y nietos.",
+            "text4": "Desde The CO2 Fight queremos pedirte que contribuyas a compensar el CO2 que generas, si todos hicieramos esto, conseguiriamos ciudades mas limpias y generaciones mas lonjevas"
         },
         "box3": {
             "title": "Asi es como puedes empezar a compensar por tus emisiones de CO2",
-            "text1": "You can get started today compensating for the car trip you did this morning, or even give to some loved one a present compensating their CO2 emissions. Click here and buy the pack more convenient to you"
             "text1": "Para empezar, puedes compensar el CO2 que has generado yendo al trabajo, o regalar a algun ser querido este regalo"
         }
     }

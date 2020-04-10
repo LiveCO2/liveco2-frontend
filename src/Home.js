@@ -2,7 +2,7 @@ import React from 'react';
 import { Trans } from 'react-i18next';
 
 import legoFarmer from './images/farmer-lego-with-plants.jpeg'
-import legoForest from './images/lego-forest.jpg'
+import legoForest from './images/lego-forest-removebg-preview.png'
 import iconCarrot from './icons/carrot.svg'
 import iconSolarPanel from './icons/045-solar-panel.svg'
 import iconElectricCar from './icons/010-electric-car.svg'
@@ -79,6 +79,9 @@ const Home = () => (
             <div className="rowFlexElementRightText">
                 <h2><Trans i18nKey="home.box2.title"/></h2>
                 <p><Trans i18nKey="home.box2.text1"/></p>
+                <p><Trans i18nKey="home.box2.text2"/></p>
+                <p><Trans i18nKey="home.box2.text3"/></p>
+                <p><Trans i18nKey="home.box2.text4"/></p>
             </div>
         </div>
 

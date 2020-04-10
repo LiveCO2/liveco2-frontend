@@ -8,16 +8,20 @@ import i18next from 'i18next';
 import LanguageDetector from 'i18next-browser-languagedetector';
 
 import en_locale from './locales/en/translation.json';
+import es_locale from './locales/es/translation.json';
 
 
 i18next.use(LanguageDetector).init({
     interpolation: { escapeValue: false },
-    lng: 'en',
+    lng: 'es',
     debug: 'true',
     defaultNS: 'common',
     resources: {
         en: {
             common: en_locale
+        },
+        es: {
+            common: es_locale
         }
     }
 });
