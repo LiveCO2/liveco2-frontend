@@ -1,10 +1,8 @@
 import React from "react";
 import {
     Route,
-    NavLink,
     BrowserRouter
 } from "react-router-dom";
-import { Trans } from 'react-i18next';
 
 import Header from "./Header";
 import Home from "./Home";
