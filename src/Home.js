@@ -5,7 +5,7 @@ import Button from './Button';
 import CardWithImage from './CardWithImage';
 import CardText from './CardText';
 
-import legoFarmer from './images/farmer-lego-with-plants.jpeg'
+import legoFarmer from './images/farmer-transparent.png'
 import iconCarrot from './icons/carrot.svg'
 import iconSolarPanel from './icons/045-solar-panel.svg'
 import iconElectricCar from './icons/010-electric-car.svg'
