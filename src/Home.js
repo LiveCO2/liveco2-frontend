@@ -2,6 +2,8 @@ import React from 'react';
 import { Trans } from 'react-i18next';
 
 import Button from './Button';
+import CardWithImage from './CardWithImage';
+
 import legoFarmer from './images/farmer-lego-with-plants.jpeg'
 import legoForest from './images/lego-forest-removebg-preview.png'
 import iconCarrot from './icons/carrot.svg'
@@ -55,19 +57,7 @@ const Home = () => (
                 <Button link="how-it-works" tk="home.card2.button" />
             </div>
         </div>
-
-        <div className="containerRow">
-            <div className="containerRowElement">
-                <h2><Trans i18nKey="home.box1.title"/></h2>
-                <p><Trans i18nKey="home.box1.text1"/></p>
-                <p><Trans i18nKey="home.box1.text2"/></p>
-                <p><Trans i18nKey="home.box1.text3"/></p>
-                <a href="how-it-works" className="button"><Trans i18nKey="home.box1.button"/></a>
-            </div>
-            <div className="containerRowElement">
-                <img src={legoForest} alt="Lego Farmer" width="75%" className="image"></img>
-            </div>
-        </div>
+        <CardWithImage />
 
         <div className="containerRowFlexRightText">
             <div className="rowFlexElement">

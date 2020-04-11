@@ -4,7 +4,7 @@ body {
     background-color: rgba(122, 132, 80, 1);
     margin: 0;
 }
-h1, h2, p, ul, li {
+h1, h2, p, ul, li, a {
     font-family: 'Nunito', bold;
 }
 
@@ -106,25 +106,4 @@ p {
     padding: 10px;
     border-bottom: 1px solid black;
     margin-bottom: 15px;
-}
-
-.container-row h2 {
-    padding: 0;
-    margin: 0;
-}
-.container-row li {
-    margin-bottom: 10px;
-}
-.active {
-    background-color: rgba(82, 70, 50, 1);
-}
-
-:root {
-    --one: rgba(27, 48, 34, 1);
-    --dos: rgba(82, 70, 50, 1);
-}
-
-.image {
-    display: block;
-    margin: auto;
 }
