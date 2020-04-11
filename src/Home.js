@@ -3,6 +3,7 @@ import { Trans } from 'react-i18next';
 
 import Button from './Button';
 import CardWithImage from './CardWithImage';
+import CardText from './CardText';
 
 import legoFarmer from './images/farmer-lego-with-plants.jpeg'
 import iconCarrot from './icons/carrot.svg'
@@ -14,7 +15,7 @@ import iconTree3 from './icons/tree-3.svg'
 
 const Home = () => (
     <div>
-        <div className="containerRowCards">
+        <div className="mainRow">
             <div className="card">
                 <h2 className="cardTitle"><Trans i18nKey="home.card1.title"/></h2>
 
@@ -58,28 +59,16 @@ const Home = () => (
         </div>
         <CardWithImage />
 
-        <div className="containerRowFlexRightText">
-            <div className="rowFlexElement">
+        <div className="row">
+            <div className="rowCardImage">
                 <img src={legoFarmer} alt="Lego Farmer" width="75%" className="image"></img>
             </div>
-            <div className="rowFlexElementRightText">
-                <h2><Trans i18nKey="home.box2.title"/></h2>
-                <p><Trans i18nKey="home.box2.text1"/></p>
-                <p><Trans i18nKey="home.box2.text2"/></p>
-                <p><Trans i18nKey="home.box2.text3"/></p>
-                <p><Trans i18nKey="home.box2.text4"/></p>
-            </div>
+            <CardText />
         </div>
 
-        <div className="containerRowFlexLeftText">
-            <div className="rowFlexElementLeftText">
-                <h2><Trans i18nKey="home.box2.title"/></h2>
-                <p><Trans i18nKey="home.box2.text1"/></p>
-            </div>
-            <div className="rowFlexElementLeftText">
-                <h2><Trans i18nKey="home.box2.title"/></h2>
-                <p><Trans i18nKey="home.box2.text1"/></p>
-            </div>
+        <div className="row">
+          <CardText />
+          <CardText />
         </div>
     </div>
 );

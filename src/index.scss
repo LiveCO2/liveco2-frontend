@@ -22,47 +22,8 @@ p {
     font-family: 'Lora', bold;
     font-size: 14px;
 }
-.containerRowFlexRightText {
-    padding: 20px;
-    display: flex;
-}
-.containerRowFlexRightText > div:first-child {
-    width: 30%;
-}
-.rowFlexElementRightText {
-    background-color: #FFF;
-    border-radius: 15px;
-    padding: 20px;
-    margin-left: 10px;
-}
-.containerRowFlexLeftText {
-    padding: 20px;
-    display: flex;
-}
-.containerRowFlexLeftText > div:first-child {
-    width: 70%;
-}
-.rowFlexElementLeftText {
-    background-color: #FFF;
-    border-radius: 15px;
-    padding: 20px;
-    margin-right: 10px;
-}
-.rowFlexElement {
-    background-color: #FFF;
-    border-radius: 15px;
-    padding: 20px;
-}
-.containerRow {
-    background-color: rgba(255,253,208, 0.4);
-    padding: 20px;
-    padding-left: 35px;
-    border-radius: 15px;
-    display: flex;
-    width: 80%;
-    margin: 20px auto;
-}
-.containerRowCards {
+
+.mainRow {
     display: flex;
     justify-content: center;
     background: url('images/forest-1.jpg') center/cover;
@@ -70,10 +31,7 @@ p {
     height: calc(100vh - 60px);
     align-items: center;
 }
-.containerRowElement {
-    width: 66%;
-    align-self: center;
-}
+
 .card {
     background-color: rgba(255, 255, 255, 0.9);
     border-radius: 15px;
@@ -103,7 +61,21 @@ p {
     font-size: 15px;
 }
 .cardTitle {
-    padding: 10px;
+    padding-bottom: 5px;
     border-bottom: 1px solid black;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
+}
+
+.row {
+    padding: 20px;
+    display: flex;
+}
+.row > div:first-child {
+    width: 30%;
+}
+
+.rowCardImage {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 15px;
+    padding: 20px;
 }
