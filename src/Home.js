@@ -58,17 +58,16 @@ const Home = () => (
             </div>
         </div>
         <CardWithImage />
-
-        <div className="row">
-            <div className="rowCardImage">
-                <img src={legoFarmer} alt="Lego Farmer" width="75%" className="image"></img>
-            </div>
+        <div className="rowContainer">
+          <div className="row">
+              <div className="rowCardImage">
+                  <img src={legoFarmer} alt="Lego Farmer" width="75%" className="image"></img>
+              </div>
+              <CardText />
+          </div>
+          <div className="row">
             <CardText />
-        </div>
-
-        <div className="row">
-          <CardText />
-          <CardText />
+          </div>
         </div>
     </div>
 );

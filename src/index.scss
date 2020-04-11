@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito');
 @import url('https://fonts.googleapis.com/css?family=Lora');
 body {
-    background-color: rgba(122, 132, 80, 1);
+    background-color: rgba(220,237,200,1);
     margin: 0;
 }
 h1, h2, p, ul, li, a {
@@ -63,19 +63,22 @@ p {
 .cardTitle {
     padding-bottom: 5px;
     border-bottom: 1px solid black;
-    margin-bottom: 5px;
+    margin-bottom: 20px;
+}
+
+.rowContainer {
+  justify-content: center;
+  background: url('images/forest-2.jpg') center/cover;
 }
 
 .row {
     padding: 20px;
     display: flex;
 }
-.row > div:first-child {
-    width: 30%;
-}
 
 .rowCardImage {
     background-color: rgba(255, 255, 255, 0.9);
     border-radius: 15px;
     padding: 20px;
+    width: 30%;
 }
