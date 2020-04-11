@@ -25,6 +25,10 @@
 
 .header-right {
     display: flex;
+    align-items: center;
+    > img:last-child {
+      height: 24px;
+    }
 }
 
 .header-left {
@@ -33,7 +37,7 @@
 
 .social-link {
   height: 20px;
-  padding: 20px 15px;
+  padding: 0 10px;
   cursor: pointer;
   display: block;
 }

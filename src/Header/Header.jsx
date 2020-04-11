@@ -3,6 +3,7 @@ import { NavLink} from "react-router-dom";
 import { Trans } from 'react-i18next';
 import instagramIcon from './../icons/instagram.svg';
 import facebookIcon from './../icons/facebook.svg';
+import emailIcon from './../icons/envelope.svg';
 import './Header.scss';
 
 const Header = () => (
@@ -20,6 +21,7 @@ const Header = () => (
             <img className="social-link" src={instagramIcon} alt="instagramIcon" />
           </a>
           <img className="social-link" src={facebookIcon} alt="facebookIcon" />
+          <img className="social-link" src={emailIcon} alt="envelopeIcon" />
         </div>
     </div>
 );
