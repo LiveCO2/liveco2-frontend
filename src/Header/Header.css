@@ -1,27 +1,44 @@
 .header {
-    background-color: rgba(27, 48, 34, 1);
-    padding-left: 30px;
+    background-color: rgb(85, 139, 47);
+    padding: 0 30px;
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    top: 0;
 }
 
 .header-link {
-    display: inline;
     list-style-type: none;
-    margin: 0;
     color: #FFF;
     font-weight: bold;
     text-decoration: none;
-    padding: 20px;
-    display: inline-block;
+    padding: 0 20px;
+    height: 60px;
+    display: flex;
+    align-items: center;
 }
-.header-left {
-    float: left;
+
+.header-link:hover {
+  background-color: rgb(102, 187, 106);
 }
+
 .header-right {
-    float: right;
+    display: flex;
+}
+
+.header-left {
+    display: flex;
 }
 
 .social-link {
   height: 20px;
   padding: 20px 15px;
   cursor: pointer;
+  display: block;
+}
+
+.active {
+    background-color: rgb(102, 187, 106);
 }

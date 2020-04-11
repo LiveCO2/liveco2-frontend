@@ -17,9 +17,9 @@ const Header = () => (
         </div>
         <div className="header-right">
           <a href="https://instagram.com/theco2fight?igshid=1bgtikum9cr66" target="_blank" rel="noopener noreferrer">
-            <img className="social-link" src={instagramIcon} alt="instagramIcon"></img>
+            <img className="social-link" src={instagramIcon} alt="instagramIcon" />
           </a>
-          <img className="social-link" src={facebookIcon} alt="facebookIcon"></img>
+          <img className="social-link" src={facebookIcon} alt="facebookIcon" />
         </div>
     </div>
 );

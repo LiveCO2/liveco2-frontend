@@ -4,7 +4,7 @@ body {
     background-color: rgba(122, 132, 80, 1);
     margin: 0;
 }
-h1, h2, p, ul, li {
+h1, h2, p, ul, li, a {
     font-family: 'Nunito', bold;
 }
 
@@ -114,9 +114,6 @@ p {
 }
 .container-row li {
     margin-bottom: 10px;
-}
-.active {
-    background-color: rgba(82, 70, 50, 1);
 }
 
 :root {
