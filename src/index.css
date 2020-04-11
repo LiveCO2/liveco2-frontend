@@ -107,21 +107,3 @@ p {
     border-bottom: 1px solid black;
     margin-bottom: 15px;
 }
-
-.container-row h2 {
-    padding: 0;
-    margin: 0;
-}
-.container-row li {
-    margin-bottom: 10px;
-}
-
-:root {
-    --one: rgba(27, 48, 34, 1);
-    --dos: rgba(82, 70, 50, 1);
-}
-
-.image {
-    display: block;
-    margin: auto;
-}
