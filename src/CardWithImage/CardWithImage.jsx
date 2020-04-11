@@ -4,7 +4,7 @@ import { Trans } from 'react-i18next';
 import Button from '../Button';
 import legoForest from '../images/lego-forest-removebg-preview.png'
 
-import './CardWithImage.css';
+import './CardWithImage.scss';
 
 const CardWithImage = () => (
   <div className="cardContainer">

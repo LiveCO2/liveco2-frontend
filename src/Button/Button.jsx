@@ -1,7 +1,7 @@
 import React from 'react';
 import { Trans } from 'react-i18next';
 
-import './Button.css';
+import './Button.scss';
 
 const Button = ({ link, tk }) => (
     <a className="button" href={link}>

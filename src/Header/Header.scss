@@ -18,10 +18,9 @@
     height: 60px;
     display: flex;
     align-items: center;
-}
-
-.header-link:hover {
-  background-color: rgb(102, 187, 106);
+    &:hover {
+      background-color: rgb(102, 187, 106);
+    }
 }
 
 .header-right {

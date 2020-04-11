@@ -1,3 +1,5 @@
+$hoverColor: #66BB6A;
+
 .button {
   display: inline-block;
   margin-top: 20px;
@@ -11,11 +13,11 @@
   border: 1px solid #494949;
   transition: all 0.4s ease 0s;
   border-radius: 20px;
-}
 
-.button:hover {
-  color: #ffffff;
-  background: #66BB6A;
-  border-color: #66BB6A;
-  transition: all 0.3s ease 0s;
+  &:hover {
+    color: #ffffff;
+    background: $hoverColor;
+    border-color: #66BB6A;
+    transition: all 0.3s ease;
+  }
 }

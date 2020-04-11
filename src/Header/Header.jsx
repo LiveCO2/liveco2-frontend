@@ -3,7 +3,7 @@ import { NavLink} from "react-router-dom";
 import { Trans } from 'react-i18next';
 import instagramIcon from './../icons/instagram.svg';
 import facebookIcon from './../icons/facebook.svg';
-import './Header.css';
+import './Header.scss';
 
 const Header = () => (
     <div className="header">
