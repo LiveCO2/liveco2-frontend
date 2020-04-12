@@ -12,7 +12,7 @@ import Buy from "./Buy";
 import Sell from "./Sell";
 
 const Main = () => (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Header/>
         <div className="content">
             <Route exact path="/" component={Home}/>
