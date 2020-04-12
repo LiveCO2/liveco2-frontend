@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c530e14.chunk.css",
+    "main.js": "/static/js/main.b9ed33f0.chunk.js",
+    "main.js.map": "/static/js/main.b9ed33f0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.80e48cbe.js",
+    "runtime-main.js.map": "/static/js/runtime-main.80e48cbe.js.map",
+    "static/js/2.4d20d8e4.chunk.js": "/static/js/2.4d20d8e4.chunk.js",
+    "static/js/2.4d20d8e4.chunk.js.map": "/static/js/2.4d20d8e4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2d2a6ff6b1a3b4ff9c26004bed0ce26b.js": "/precache-manifest.2d2a6ff6b1a3b4ff9c26004bed0ce26b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6c530e14.chunk.css.map": "/static/css/main.6c530e14.chunk.css.map",
+    "static/js/2.4d20d8e4.chunk.js.LICENSE.txt": "/static/js/2.4d20d8e4.chunk.js.LICENSE.txt",
+    "static/media/010-electric-car.svg": "/static/media/010-electric-car.e7d3f73c.svg",
+    "static/media/045-solar-panel.svg": "/static/media/045-solar-panel.5acd37d5.svg",
+    "static/media/carrot.svg": "/static/media/carrot.7dfd44f2.svg",
+    "static/media/facebook.svg": "/static/media/facebook.422e7665.svg",
+    "static/media/farmer-lego-with-plants.jpeg": "/static/media/farmer-lego-with-plants.ed32d85d.jpeg",
+    "static/media/index.scss": "/static/media/forest-1.812266f6.jpg",
+    "static/media/instagram.svg": "/static/media/instagram.91a8e68d.svg",
+    "static/media/lego-forest-removebg-preview.png": "/static/media/lego-forest-removebg-preview.41ef753a.png",
+    "static/media/tree-1.svg": "/static/media/tree-1.a413567c.svg",
+    "static/media/tree-2.svg": "/static/media/tree-2.ba37a0d2.svg",
+    "static/media/tree-3.svg": "/static/media/tree-3.7a6ef5f4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80e48cbe.js",
+    "static/js/2.4d20d8e4.chunk.js",
+    "static/css/main.6c530e14.chunk.css",
+    "static/js/main.b9ed33f0.chunk.js"
+  ]
+}
