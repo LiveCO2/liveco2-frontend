@@ -1,9 +1,6 @@
 import React from 'react';
 import { Trans } from 'react-i18next';
 
-import Button from '../Button';
-import legoForest from '../images/lego-forest-removebg-preview.png'
-
 import './CardText.scss';
 
 const CardText = () => (
