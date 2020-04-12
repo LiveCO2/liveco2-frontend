@@ -5,6 +5,11 @@ script:
 - npm run build
 deploy:
   provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep_history: true
+  on:
+    branch: dev
   local_dir: build/
 env:
   global:
