@@ -2,7 +2,7 @@
 
 # The CO2 Fight public Website
 
-This repo hosts the code for The CO2 Fight website.
+This repo hosts the code for The CO2 Fight website https://the-smooth-operator.github.io/compensate/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
