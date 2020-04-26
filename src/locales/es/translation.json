@@ -7,6 +7,23 @@
         "about": "Sobre nosotros",
         "faq": "FAQ"
     },
+    "faq" : {
+        "buyers": {
+            "title" : "Servicios para clientes",
+            "faqs" : {
+                "q1" : "¿Qué es un TON?",
+                "a1" : "Un TON es una unidad de valor equivalente a una tonelada absorbida y certificada de CO2. Nuestro objetivo es consolidar el TON como una unidad monetaria de carácter privado que sea coherente con nuestros focos de absorción. Queremos crear un incentivo económico en pos de la preservación y promoción de sumideros naturales de carbono (árboles y plantas), ya que hoy, el valor de estos se calcula por su madera o el terreno que ocupan, pero no por el papel fundamental y beneficio que ejercen en nuestra atmósfera, mediante la absorción de carbono y gases de efecto invernadero.",
+                "q2" : "¿Cómo funciona the CO2 Fight?",
+                "a2" : "A través de nuestro equipo de ingenieros agrónomos y forestales, auditamos la capacidad de absorción de las masas forestales con el fin de registrar la cantidad exacta de toneladas que absorben y posteriormente dotarlas de valor económico, comercializando las mismas, a través de nuestra página web. Para ello hemos creado el TON."
+             }
+        },
+        "sellers": {
+            "title" :"Servicios para proveedores",
+            "faqs" : {
+                "1" : ""
+            }
+        }
+    },
     "about" : {
         "title": "Sobre nosotros",
         "description": "Somos un grupo de individuos comprometidos con la lucha por el cambio climatico que usando nuevas ideas y tecnologias quiere tener un impacto en esta lucha",
