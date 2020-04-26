@@ -20,7 +20,18 @@
         "sellers": {
             "title" :"Servicios para proveedores",
             "faqs" : {
-                "1" : ""
+                "q1" : "Pero, ¿qué tengo que hacer yo?",
+                "a1" : "Respetar la exclusividad de la gestión pactada en el contrato, además de mantener y preservar la masa forestal desde el inicio hasta la finalización de la auditoría.",
+                "q2" : "¿Qué beneficios obtengo como proveedor?",
+                "a2" : "Arriba indicados; dinero, titularidad y reconocimiento de un activo que cada día tiene más valor en nuestra sociedad, lucha contra el cambio climático, revalorización de zonas agrarias y forestales, creación de empleo.",
+                "q3" : "¿Qué pasa con la propiedad de mi terreno?",
+                "a3" : "La propiedad del terreno sigue siendo en todo momento de titularidad del proveedor, este contrato no contempla la cesión de titularidad alguna. Por tanto, se mantiene la titularidad sobre el terreno, así como del resto de activos que estén ligados a ese bien raíz, incluidas las toneladas absorbidas de co2.",
+                "q4" : "¿En qué consiste la auditoría?",
+                "a4" : "Nuestro equipo de expertos realizará los estudios pertinentes en su terreno, y se calcularán las toneladas de co2 absorbidas en un espacio de temporal de (ejemplo 3 meses).",
+                "q5" : "¿Qué comisión me cobran?",
+                "a5" : "Un 10% sobre el precio de venta (Por establecer según imputación de costes).",
+                "q6" : "¿Puedo vender ese producto por mi cuenta?",
+                "a6" : "No. Es un compromiso por parte del proveedor. Con esto lo único que hacemos es asegurar el cobro de nuestra comisión en caso de vender, y tener una contrapartida tras el despliegue de nuestros recursos."
             }
         }
     },

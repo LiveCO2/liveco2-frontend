@@ -10,6 +10,7 @@ import About from "./About";
 import HowItWorks from "./HowItWorks";
 import Buy from "./Buy";
 import Sell from "./Sell";
+import Faq from "./Faq/Faq";
 
 const Main = () => (
     <BrowserRouter basename={process.env.PUBLIC_URL}>
@@ -20,6 +21,7 @@ const Main = () => (
             <Route path="/how-it-works" component={HowItWorks}/>
             <Route path="/compensate" component={Buy}/>
             <Route path="/enroll-trees" component={Sell}/>
+            <Route path="/faq" component={Faq}/>
         </div>
         <div className="footer">
         </div>
