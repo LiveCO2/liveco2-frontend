@@ -50,11 +50,25 @@
         "text3": "After that, we will come back to you with an answer, if the trees in your land are qualifying for our project, we will sign a public contract to set the expectations from both parts"
     },
     "buy" : {
-        "title": "Compensate your CO2 expenditure",
-        "description": "You can buy rights for CO2 absortion",
-        "text1": "dfdfd",
-        "text2": "dfdf",
-        "text3": "dfdf"
+        "title": "Packs de Absorcion de CO2",
+        "description": "A continuacion podras ver nuestros packs de absorcion",
+        "products": {
+            "product1": {
+                "title" : "Compensa tu dia",
+                "description" : "Este pack incluye las Toneladas de CO2 que una persona media genera en un dia",
+                "price" : "1 Euro"
+            },
+            "product2" : {
+                "title": "Compensa tu mes",
+                "description" : "Este pack incluye Toneladas de CO2 que una persona media genera en un mes",
+                "price" : "30 Euros"
+            },
+            "product3" : {
+                "title" : "Compensa tu año",
+                "description" : "Este pack incluye Toneladas de CO2 que una persona media genera en un año",
+                "price" : "365 Euros"
+            }
+       }
     },
     "works" : {
         "title": "Here you can learn how our project works",

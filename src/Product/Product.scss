@@ -1,0 +1,26 @@
+.cardContainer {
+    // background-color: rgba(255,253,208, 0.4);
+    padding: 20px;
+    padding-left: 35px;
+    border-radius: 15px;
+    display: flex;
+    width: 80%;
+    margin: 20px auto;
+    min-height: 350px;
+}
+
+.cardText {
+    width: 60%;
+    align-self: center;
+    text-align: justify;
+}
+
+.cardImage {
+  width: 40%;
+  padding-left: 5em;
+  align-self: center;
+
+  > img {
+    width: 100%;
+  }
+}
