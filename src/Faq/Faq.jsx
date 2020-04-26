@@ -4,6 +4,26 @@ import { Trans } from 'react-i18next';
 import FaqItem from './../FaqItem/FaqItem';
 
 import { Title, FaqBlock } from './styled.jsx';
+
+const general = [
+  {
+    title: "faq.general.faqs.q1",
+    description: "faq.general.faqs.a1"
+  },
+  {
+    title: "faq.general.faqs.q2",
+    description: "faq.general.faqs.a2"
+  },
+  {
+    title: "faq.general.faqs.q3",
+    description: "faq.general.faqs.a3"
+  },
+  {
+    title: "faq.general.faqs.q4",
+    description: "faq.general.faqs.a4"
+  }
+]
+
 const sellers = [
   {
     title: "faq.sellers.faqs.q1",
@@ -63,6 +83,20 @@ class Faq extends Component {
         const { activeItemIndex } = this.state;
         return (
           <>
+            <FaqBlock>
+              <Title><Trans i18nKey="faq.general.title"/></Title>
+                {general &&
+                    general.map((item, index) => (
+                        <FaqItem
+                            key={item.title}
+                            isActive={index === activeItemIndex}
+                            index={index}
+                            handleItemClick={this.handleItemClick}
+                            title={item.title}
+                            description={item.description}
+                        />
+                    ))}
+            </FaqBlock>
             <FaqBlock>
               <Title><Trans i18nKey="faq.sellers.title"/></Title>
                 {sellers &&

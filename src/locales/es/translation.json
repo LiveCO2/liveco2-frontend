@@ -4,10 +4,23 @@
         "how-it-works": "Como funciona",
         "compensate": "Contribuye",
         "enroll-trees": "Soy un agricultor",
-        "about": "Sobre nosotros",
+        "about": "Quienes somos",
         "faq": "FAQ"
     },
     "faq" : {
+        "general" : {
+            "title" : "Preguntas generales",
+            "faqs" : {
+                "q1" : "Que es The CO2 Fight?",
+                "a1" : "",
+                "q2" : "Que es un pack de TONs?",
+                "a2" : "",
+                "q3" : "Como puedo comprar TONs?",
+                "a3" : "",
+                "q4" : "Que obtengo cuando compro un pack de TONs",
+                "a4" : ""
+            }
+        },
         "buyers": {
             "title" : "Servicios para clientes",
             "faqs" : {

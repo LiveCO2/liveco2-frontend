@@ -4,6 +4,7 @@ export const FaqBlock = styled.div`
   width: 70%;
   margin: auto;
   padding-top: 30px;
+  font-family: 'Nunito', sans;
 `;
 
 export const Title = styled.h2`
