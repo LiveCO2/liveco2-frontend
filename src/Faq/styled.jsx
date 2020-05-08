@@ -1,12 +1,5 @@
 import styled from 'styled-components';
 
-export const FaqBlock = styled.div`
-  width: 70%;
-  margin: auto;
-  padding-top: 30px;
-  font-family: 'Nunito', sans;
-`;
-
-export const Title = styled.h2`
-  padding: 12px 0;
+export const FaqContainer = styled.div`
+  margin: 30px 0;
 `;
