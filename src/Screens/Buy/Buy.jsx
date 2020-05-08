@@ -1,20 +1,21 @@
 import React from 'react';
 import { Trans } from 'react-i18next';
 
-import Product from "./Product/Product";
+import Product from "../../Product/Product";
+import "./Buy.scss"
 
 //Icons
-import silverMedal from './icons/silver-medal.svg'
-import goldMedal from './icons/gold-medal.svg'
-import crown from './icons/crown.svg'
+import silverMedal from '../../icons/silver-medal.svg'
+import goldMedal from '../../icons/gold-medal.svg'
+import crown from '../../icons/crown.svg'
 
 const Buy = () => (
     <div>
-        <div className="containerRow">
+        <div className="buyHeader">
             <h2><Trans i18nKey="buy.title"/></h2>
             <p><Trans i18nKey="buy.description"/></p>
         </div>
-        <div className="containerRow">
+        <div className="buyProducts">
             <Product 
                 img={silverMedal}
                 title="buy.products.product1.title" 

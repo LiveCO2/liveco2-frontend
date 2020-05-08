@@ -1,11 +1,8 @@
 .productContainer {
     // background-color: rgba(255,253,208, 0.4);
     padding: 20px;
-    padding-left: 35px;
-    border-radius: 15px;
-    width: 80%;
-    margin: 20px auto;
-    min-height: 350px;
+    display: flex;
+    flex-direction: column;
 }
 
 .productText {
@@ -16,11 +13,14 @@
 
 .productIcon {
   width: 40%;
-  padding-left: 5em;
   align-self: center;
   text-align: center;
 
   > img {
     width: 50%;
   }
+}
+
+.productPrice {
+    font-weight: bold;
 }

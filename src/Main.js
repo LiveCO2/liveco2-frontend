@@ -8,8 +8,8 @@ import Header from "./Header";
 import Home from "./Home";
 import About from "./About";
 import HowItWorks from "./HowItWorks";
-import Buy from "./Buy";
-import Sell from "./Sell";
+import Buy from "./Screens/Buy/Buy";
+import Sell from "./Screens/Sell/Sell";
 import Faq from "./Faq/Faq";
 
 const Main = () => (
