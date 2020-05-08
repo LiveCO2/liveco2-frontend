@@ -1,9 +1,7 @@
-import React, { Component } from 'react';
-import { Trans } from 'react-i18next';
+import React from 'react';
 
-import FaqItem from './../FaqItem/FaqItem';
-
-import { Title, FaqBlock } from './styled.jsx';
+import FaqBlock from './../FaqBlock';
+import { FaqContainer } from './styled';
 
 const general = [
   {
@@ -62,72 +60,12 @@ const buyers = [
   },
 ];
 
-class Faq extends Component {
-    constructor(props) {
-        super(props);
-        this.state = {
-            activeItemIndex: null,
-        };
-    }
-
-    handleItemClick = (index) => {
-        const { activeItemIndex } = this.state;
-        if (activeItemIndex === index) {
-            this.setState({ activeItemIndex: null });
-        } else {
-            this.setState({ activeItemIndex: index });
-        }
-    };
-
-    render() {
-        const { activeItemIndex } = this.state;
-        return (
-          <>
-            <FaqBlock>
-              <Title><Trans i18nKey="faq.general.title"/></Title>
-                {general &&
-                    general.map((item, index) => (
-                        <FaqItem
-                            key={item.title}
-                            isActive={index === activeItemIndex}
-                            index={index}
-                            handleItemClick={this.handleItemClick}
-                            title={item.title}
-                            description={item.description}
-                        />
-                    ))}
-            </FaqBlock>
-            <FaqBlock>
-              <Title><Trans i18nKey="faq.sellers.title"/></Title>
-                {sellers &&
-                    sellers.map((item, index) => (
-                        <FaqItem
-                            key={item.title}
-                            isActive={index === activeItemIndex}
-                            index={index}
-                            handleItemClick={this.handleItemClick}
-                            title={item.title}
-                            description={item.description}
-                        />
-                    ))}
-            </FaqBlock>
-            <FaqBlock>
-              <Title><Trans i18nKey="faq.buyers.title"/></Title>
-                {buyers &&
-                    buyers.map((item, index) => (
-                        <FaqItem
-                            key={item.title}
-                            isActive={index === activeItemIndex}
-                            index={index}
-                            handleItemClick={this.handleItemClick}
-                            title={item.title}
-                            description={item.description}
-                        />
-                    ))}
-            </FaqBlock>
-            </>
-        );
-    }
-}
+const Faq = () => (
+      <FaqContainer>
+        <FaqBlock block={general} blockTitle="faq.general.title" />
+        <FaqBlock block={sellers} blockTitle="faq.sellers.title" />
+        <FaqBlock block={buyers} blockTitle="faq.buyers.title" />
+      </FaqContainer>
+);
 
 export default Faq;
