@@ -6,7 +6,6 @@ import {
 
 import Header from "./Header";
 import Home from "./Home";
-import About from "./About";
 import HowItWorks from "./Screens/HowItWorks/HowItWorks";
 import Buy from "./Screens/Buy/Buy";
 import Sell from "./Screens/Sell/Sell";
@@ -17,8 +16,6 @@ const Main = () => (
         <Header/>
         <div className="content">
             <Route exact path="/" component={Home}/>
-            <Route path="/about-compensate" component={About}/>
-            <Route path="/how-it-works" component={HowItWorks}/>
             <Route path="/compensate" component={Buy}/>
             <Route path="/enroll-trees" component={Sell}/>
             <Route path="/faq" component={Faq}/>
