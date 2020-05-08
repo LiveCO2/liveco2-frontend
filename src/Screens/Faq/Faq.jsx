@@ -1,6 +1,6 @@
 import React from 'react';
 
-import FaqBlock from './../FaqBlock';
+import FaqBlock from './../../FaqBlock/FaqBlock';
 import { FaqContainer } from './styled';
 
 const general = [

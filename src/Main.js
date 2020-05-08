@@ -10,7 +10,7 @@ import About from "./About";
 import HowItWorks from "./Screens/HowItWorks/HowItWorks";
 import Buy from "./Screens/Buy/Buy";
 import Sell from "./Screens/Sell/Sell";
-import Faq from "./Faq/Faq";
+import Faq from "./Screens/Faq";
 
 const Main = () => (
     <BrowserRouter basename={process.env.PUBLIC_URL}>
