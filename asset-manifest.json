@@ -1,33 +1,36 @@
 {
   "files": {
-    "main.css": "/compensate/static/css/main.a73b166b.chunk.css",
-    "main.js": "/compensate/static/js/main.4d2e4a34.chunk.js",
-    "main.js.map": "/compensate/static/js/main.4d2e4a34.chunk.js.map",
+    "main.css": "/compensate/static/css/main.caac491f.chunk.css",
+    "main.js": "/compensate/static/js/main.72a14c7d.chunk.js",
+    "main.js.map": "/compensate/static/js/main.72a14c7d.chunk.js.map",
     "runtime-main.js": "/compensate/static/js/runtime-main.40ee356a.js",
     "runtime-main.js.map": "/compensate/static/js/runtime-main.40ee356a.js.map",
-    "static/js/2.28cf9af6.chunk.js": "/compensate/static/js/2.28cf9af6.chunk.js",
-    "static/js/2.28cf9af6.chunk.js.map": "/compensate/static/js/2.28cf9af6.chunk.js.map",
+    "static/js/2.eb4f059d.chunk.js": "/compensate/static/js/2.eb4f059d.chunk.js",
+    "static/js/2.eb4f059d.chunk.js.map": "/compensate/static/js/2.eb4f059d.chunk.js.map",
     "index.html": "/compensate/index.html",
-    "precache-manifest.e761a9ab857665f8d6f1d679a61b7492.js": "/compensate/precache-manifest.e761a9ab857665f8d6f1d679a61b7492.js",
+    "precache-manifest.016c3e52bca5800818c35b7e9b6f753d.js": "/compensate/precache-manifest.016c3e52bca5800818c35b7e9b6f753d.js",
     "service-worker.js": "/compensate/service-worker.js",
-    "static/css/main.a73b166b.chunk.css.map": "/compensate/static/css/main.a73b166b.chunk.css.map",
-    "static/js/2.28cf9af6.chunk.js.LICENSE.txt": "/compensate/static/js/2.28cf9af6.chunk.js.LICENSE.txt",
+    "static/css/main.caac491f.chunk.css.map": "/compensate/static/css/main.caac491f.chunk.css.map",
+    "static/js/2.eb4f059d.chunk.js.LICENSE.txt": "/compensate/static/js/2.eb4f059d.chunk.js.LICENSE.txt",
     "static/media/010-electric-car.svg": "/compensate/static/media/010-electric-car.e7d3f73c.svg",
     "static/media/045-solar-panel.svg": "/compensate/static/media/045-solar-panel.5acd37d5.svg",
     "static/media/carrot.svg": "/compensate/static/media/carrot.7dfd44f2.svg",
+    "static/media/crown.svg": "/compensate/static/media/crown.2cb41e18.svg",
     "static/media/envelope.svg": "/compensate/static/media/envelope.cb79f232.svg",
     "static/media/facebook.svg": "/compensate/static/media/facebook.422e7665.svg",
     "static/media/index.scss": "/compensate/static/media/forest-2.d611e140.jpg",
+    "static/media/gold-medal.svg": "/compensate/static/media/gold-medal.94cf35bb.svg",
     "static/media/instagram.svg": "/compensate/static/media/instagram.91a8e68d.svg",
     "static/media/lego-forest-removebg-preview.png": "/compensate/static/media/lego-forest-removebg-preview.41ef753a.png",
+    "static/media/silver-medal.svg": "/compensate/static/media/silver-medal.206f29a0.svg",
     "static/media/tree-1.svg": "/compensate/static/media/tree-1.a413567c.svg",
     "static/media/tree-2.svg": "/compensate/static/media/tree-2.ba37a0d2.svg",
     "static/media/tree-3.svg": "/compensate/static/media/tree-3.7a6ef5f4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.40ee356a.js",
-    "static/js/2.28cf9af6.chunk.js",
-    "static/css/main.a73b166b.chunk.css",
-    "static/js/main.4d2e4a34.chunk.js"
+    "static/js/2.eb4f059d.chunk.js",
+    "static/css/main.caac491f.chunk.css",
+    "static/js/main.72a14c7d.chunk.js"
   ]
 }

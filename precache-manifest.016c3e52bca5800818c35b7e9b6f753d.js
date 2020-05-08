@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a39693ded75b28d46e68f09b55e53352",
+    "revision": "bf49387d74b1db6afdbbc21b4996e32a",
     "url": "/compensate/index.html"
   },
   {
-    "revision": "f62cb71adb575e29a68f",
-    "url": "/compensate/static/css/main.a73b166b.chunk.css"
+    "revision": "8af4dc33312490bafdce",
+    "url": "/compensate/static/css/main.caac491f.chunk.css"
   },
   {
-    "revision": "2249342da0fc11cfba04",
-    "url": "/compensate/static/js/2.28cf9af6.chunk.js"
+    "revision": "df6c515a3eac0f4b9141",
+    "url": "/compensate/static/js/2.eb4f059d.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/compensate/static/js/2.28cf9af6.chunk.js.LICENSE.txt"
+    "url": "/compensate/static/js/2.eb4f059d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f62cb71adb575e29a68f",
-    "url": "/compensate/static/js/main.4d2e4a34.chunk.js"
+    "revision": "8af4dc33312490bafdce",
+    "url": "/compensate/static/js/main.72a14c7d.chunk.js"
   },
   {
     "revision": "730a746e117a1638c493",
@@ -36,6 +36,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/compensate/static/media/carrot.7dfd44f2.svg"
   },
   {
+    "revision": "2cb41e1818bed9d61b3540af1f0716d9",
+    "url": "/compensate/static/media/crown.2cb41e18.svg"
+  },
+  {
     "revision": "cb79f23244b58bc44ce9dff9305c4dc9",
     "url": "/compensate/static/media/envelope.cb79f232.svg"
   },
@@ -52,12 +56,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/compensate/static/media/forest-2.d611e140.jpg"
   },
   {
+    "revision": "94cf35bb16b6d53fe91318af39b6437e",
+    "url": "/compensate/static/media/gold-medal.94cf35bb.svg"
+  },
+  {
     "revision": "91a8e68dd3c119bb22f52aaff450c3b9",
     "url": "/compensate/static/media/instagram.91a8e68d.svg"
   },
   {
     "revision": "41ef753a3c15449ca9e9bfb3d0dd82d3",
     "url": "/compensate/static/media/lego-forest-removebg-preview.41ef753a.png"
+  },
+  {
+    "revision": "206f29a065eea6cb15abb66389ca8db4",
+    "url": "/compensate/static/media/silver-medal.206f29a0.svg"
   },
   {
     "revision": "a413567ce97bdf99fe96bd9ba0cc65eb",
