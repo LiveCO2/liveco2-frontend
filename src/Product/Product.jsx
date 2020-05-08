@@ -13,7 +13,7 @@ const Product = ({img, title, desc, price}) => (
       <div className="productText">
           <h4 className="productTitle"><Trans i18nKey={title}/></h4>
           <p><Trans i18nKey={desc}/></p>
-          <p><Trans i18nKey={price}/></p>
+          <p className="productPrice"><Trans i18nKey={price}/></p>
           <Button link="how-it-works" tk="home.box1.button" />
       </div>
   </div>

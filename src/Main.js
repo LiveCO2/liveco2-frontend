@@ -8,7 +8,7 @@ import Header from "./Header";
 import Home from "./Home";
 import About from "./About";
 import HowItWorks from "./HowItWorks";
-import Buy from "./Buy";
+import Buy from "./Screens/Buy/Buy";
 import Sell from "./Sell";
 import Faq from "./Faq/Faq";
 
