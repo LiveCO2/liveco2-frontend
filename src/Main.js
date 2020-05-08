@@ -9,7 +9,7 @@ import Home from "./Home";
 import About from "./About";
 import HowItWorks from "./HowItWorks";
 import Buy from "./Screens/Buy/Buy";
-import Sell from "./Sell";
+import Sell from "./Screens/Sell/Sell";
 import Faq from "./Faq/Faq";
 
 const Main = () => (
