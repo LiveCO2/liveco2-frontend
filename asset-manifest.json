@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/compensate/static/css/main.bd35a6e0.chunk.css",
-    "main.js": "/compensate/static/js/main.720d8bf7.chunk.js",
-    "main.js.map": "/compensate/static/js/main.720d8bf7.chunk.js.map",
+    "main.js": "/compensate/static/js/main.670bbe97.chunk.js",
+    "main.js.map": "/compensate/static/js/main.670bbe97.chunk.js.map",
     "runtime-main.js": "/compensate/static/js/runtime-main.40ee356a.js",
     "runtime-main.js.map": "/compensate/static/js/runtime-main.40ee356a.js.map",
     "static/js/2.91cdd5ac.chunk.js": "/compensate/static/js/2.91cdd5ac.chunk.js",
     "static/js/2.91cdd5ac.chunk.js.map": "/compensate/static/js/2.91cdd5ac.chunk.js.map",
     "index.html": "/compensate/index.html",
-    "precache-manifest.bebb0cf38c68280b97a8db92a9460a0f.js": "/compensate/precache-manifest.bebb0cf38c68280b97a8db92a9460a0f.js",
+    "precache-manifest.db09bf701658e0437cc3a37a54e9b5e5.js": "/compensate/precache-manifest.db09bf701658e0437cc3a37a54e9b5e5.js",
     "service-worker.js": "/compensate/service-worker.js",
     "static/css/main.bd35a6e0.chunk.css.map": "/compensate/static/css/main.bd35a6e0.chunk.css.map",
     "static/js/2.91cdd5ac.chunk.js.LICENSE.txt": "/compensate/static/js/2.91cdd5ac.chunk.js.LICENSE.txt",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.40ee356a.js",
     "static/js/2.91cdd5ac.chunk.js",
     "static/css/main.bd35a6e0.chunk.css",
-    "static/js/main.720d8bf7.chunk.js"
+    "static/js/main.670bbe97.chunk.js"
   ]
 }
