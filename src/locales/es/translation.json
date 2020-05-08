@@ -66,22 +66,23 @@
         "title": "Packs de Absorcion de CO2",
         "description": "A continuacion puedes ver nuestros packs de absorcion de CO2",
         "products": {
+            "button": "Compralo ahora",
             "product1": {
-                "title" : "Compensa un dia de emisiones",
+                "title" : "Compensa un dia",
                 "description" : "Este pack incluye las Toneladas de CO2 que una persona media genera en un dia",
-                "price" : "1 Euro",
+                "price" : "Empieza con 1 Euro",
                 "amount": "determine"
             },
             "product2" : {
                 "title": "Compensa tu mes",
                 "description" : "Este pack incluye Toneladas de CO2 que una persona media genera en un mes",
-                "price" : "30 Euros",
+                "price" : "Solo 27.99 Euros",
                 "amount": "determine"
             },
             "product3" : {
                 "title" : "Compensa tu año",
                 "description" : "Este pack incluye Toneladas de CO2 que una persona media genera en un año",
-                "price" : "365 Euros",
+                "price" : "Por 365 Euros",
                 "amount": "determine"
             }
        }

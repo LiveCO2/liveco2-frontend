@@ -1,8 +1,17 @@
+.buy {
+    height: calc(100vh - 60px);
+    align-items: center;
+    width: 100%;
+}
+
 .buyHeader {
     text-align: center;
-    margin: 1%;
+    margin: 5% 0;
 }
 
 .buyProducts {
     display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 75%;
 }
