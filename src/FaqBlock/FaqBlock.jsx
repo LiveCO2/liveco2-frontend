@@ -1,7 +1,7 @@
 import React, { useState, useCallback } from 'react';
 import { Trans } from 'react-i18next';
 
-import FaqItem from './../FaqItem/FaqItem';
+import FaqItem from './../FaqItem';
 import { FaqBlockContainer, Title } from './styled';
 
 const FaqBlock = ({ block, blockTitle }) => {
