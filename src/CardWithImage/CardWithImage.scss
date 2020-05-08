@@ -13,6 +13,10 @@
     width: 60%;
     align-self: center;
     text-align: justify;
+    &>p {
+        padding: 5px;
+        width: 75%;
+     }
 }
 
 .cardImage {

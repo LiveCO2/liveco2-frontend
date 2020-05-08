@@ -64,10 +64,10 @@
     },
     "buy" : {
         "title": "Packs de Absorcion de CO2",
-        "description": "A continuacion podras ver nuestros packs de absorcion",
+        "description": "A continuacion podras ver nuestros packs de absorcion de CO2",
         "products": {
             "product1": {
-                "title" : "Compensa tu dia",
+                "title" : "Compensa un dia de emisiones",
                 "description" : "Este pack incluye las Toneladas de CO2 que una persona media genera en un dia",
                 "price" : "1 Euro"
             },
@@ -124,10 +124,9 @@
             "button": "Empieza a compensar ahora"
         },
         "box1": {
-            "title": "Se parte del cambio: empieza a compensar tus emisiones de CO2 ahora.",
-            "text2": "Usando nuestra plataforma puedes comprar Toneladas absorbidas de CO2. Nuestros ingenieros certifican el producto meticulosamente y con precisión.",
-            "text3": "Árboles absorben diferentes cantidades de CO2 según su tipo. Nosotros trabajamos principalmente con el Pino Carrasco ya que aporta la mejor relación entre Toneladas de CO2 absorbidas e impacto medioambiental.",
-            "text1": "El cambio empieza en cada uno de nosotros. Solo una sociedad unida y concienciada puede llegar a ser efectiva en la lucha contra el cambio climático. Únete a nosotros y ayúdanos a conseguir un planeta más limpio y saludable.",
+            "title": "Te presentamos nuestros packs compensatorios!",
+            "text2": "Usando nuestra plataforma puedes comprar packs certificados de Toneladas absorbidas de CO2",
+            "text3": "Empieza compensando las Toneladas de CO2 que generas diariamente con un Pack Diario",
             "button": "Nuestras ofertas"
         },
         "box2": {
