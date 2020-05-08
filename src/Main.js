@@ -7,7 +7,7 @@ import {
 import Header from "./Header";
 import Home from "./Home";
 import About from "./About";
-import HowItWorks from "./HowItWorks";
+import HowItWorks from "./Screens/HowItWorks/HowItWorks";
 import Buy from "./Screens/Buy/Buy";
 import Sell from "./Screens/Sell/Sell";
 import Faq from "./Faq/Faq";
