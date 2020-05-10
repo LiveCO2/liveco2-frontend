@@ -1,12 +1,8 @@
 import React from "react";
-import {
-    Route,
-    BrowserRouter
-} from "react-router-dom";
+import { Route, BrowserRouter } from "react-router-dom";
 
 import Header from "./Header";
 import Home from "./Home";
-import HowItWorks from "./Screens/HowItWorks/HowItWorks";
 import Buy from "./Screens/Buy/Buy";
 import Sell from "./Screens/Sell/Sell";
 import Faq from "./Screens/Faq";

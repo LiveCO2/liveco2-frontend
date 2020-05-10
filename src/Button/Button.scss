@@ -1,4 +1,5 @@
-$hoverColor: #66BB6A;
+$color4: rgb(145, 168, 140);
+$color3: rgb(195, 206, 180);
 
 .button {
   display: inline-block;
@@ -6,19 +7,16 @@ $hoverColor: #66BB6A;
   text-decoration: none;
   font-family:'Nunito',sans-serif;
   font-weight: bold;
-  color: #494949;
+  color: black;
   font-size: 14px;
   text-align: center;
-  padding: 10px 15px;
-  background: rgba(255, 255, 255, 0.9);
-  border: 1px solid #494949;
+  padding: 12px 20px;
+  background: $color4;
   transition: all 0.4s ease 0s;
-  border-radius: 20px;
+  border-radius: 50px;
 
   &:hover {
-    color: #ffffff;
-    background: $hoverColor;
-    border-color: #66BB6A;
-    transition: all 0.3s ease;
+    background: $color3;
+    transition: all 0.2s ease;
   }
 }

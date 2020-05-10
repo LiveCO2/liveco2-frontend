@@ -1,0 +1,33 @@
+.card {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 15px;
+    padding: 30px 20px;
+    margin: 0 15px;
+    font-size: 10px;
+    text-align: center;
+    width: 30%;
+    height: auto;
+    max-width: 290px;
+}
+.cardListItem {
+    display: flex;
+    padding: 12px;
+    font-family: 'Nunito', bold;
+    align-items: center;
+    margin-left: 30px;
+}
+.cardListItemAmount {
+    margin-left: 20px;
+    margin-right: 10px;
+    font-family: 'Nunito', bold;
+    font-size: 15px;
+}
+.cardListItemText {
+    font-family: 'Nunito', bold;
+    font-size: 15px;
+}
+.cardTitle {
+    padding-bottom: 5px;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+}

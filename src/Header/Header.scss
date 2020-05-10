@@ -1,5 +1,12 @@
+$color1: rgb(236, 236, 233);
+$color2: rgb(228, 230, 219);
+$color3: rgb(195, 206, 180);
+$color4: rgb(145, 168, 140);
+$color5: rgb(79, 100, 79);
+$color6: rgb(41, 53, 42);
+
 .header {
-    background-color: rgb(85, 139, 47);
+    background-color: $color4;
     padding: 0 30px;
     position: sticky;
     display: flex;
@@ -11,7 +18,7 @@
 
 .header-link {
     list-style-type: none;
-    color: #FFF;
+    color: black;
     font-weight: bold;
     text-decoration: none;
     padding: 0 20px;
@@ -19,7 +26,7 @@
     display: flex;
     align-items: center;
     &:hover {
-      background-color: rgb(102, 187, 106);
+      background-color: $color5;
     }
 }
 
@@ -43,5 +50,5 @@
 }
 
 .active {
-    background-color: rgb(102, 187, 106);
+  background-color: $color3;
 }
