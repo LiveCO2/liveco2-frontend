@@ -144,5 +144,27 @@
             "title": "Asi es como puedes empezar a compensar por tus emisiones de CO2",
             "text1": "Para empezar, puedes compensar el CO2 que has generado yendo al trabajo, o regalar a algun ser querido este regalo"
         }
-    }
+    },
+    "footer" : {
+        "main" : {
+            "section1" : {
+                "title" : "The CO2 Fight",
+                "item1" : "Sobre nosotros",
+                "item2": "Prensa",
+                "item3" :"Terminos de uso"
+            },
+            "section2" : {
+                "title" : "Unete",
+                "item1" : "Compra absorcion de CO2",
+                "item2" : "Certifica tus arboles",
+                "item3" : "Aporta ideas"
+            },
+            "section3" : {
+                "title" : "Recursos",
+                "item1" : "Politica de Privacidad",
+                "item2" : "Politica de cookies",
+                "item3" : "Mapa del sitio web"
+           }
+        }
+     }
 }
