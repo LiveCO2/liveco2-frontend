@@ -19,26 +19,26 @@ const Footer = () => (
         <div className="footer-main">
             <div className="footer-main-element">
                 <p><b><Trans i18nKey="footer.main.section1.title"/></b></p>
-                <p><Trans i18nKey="footer.main.section1.item1"/></p>
-                <p><Trans i18nKey="footer.main.section1.item2"/></p>
-                <p><Trans i18nKey="footer.main.section1.item3"/></p>
+                <p className="text-small"><Trans i18nKey="footer.main.section1.item1"/></p>
+                <p className="text-small"><Trans i18nKey="footer.main.section1.item2"/></p>
+                <p className="text-small"><Trans i18nKey="footer.main.section1.item3"/></p>
             </div>
             <div className="footer-main-element">
                 <p><b><Trans i18nKey="footer.main.section2.title"/></b></p>
-                <p><Trans i18nKey="footer.main.section2.item1"/></p>
-                <p><Trans i18nKey="footer.main.section2.item2"/></p>
-                <p><Trans i18nKey="footer.main.section2.item3"/></p>
+                <p className="text-small"><Trans i18nKey="footer.main.section2.item1"/></p>
+                <p className="text-small"><Trans i18nKey="footer.main.section2.item2"/></p>
+                <p className="text-small"><Trans i18nKey="footer.main.section2.item3"/></p>
             </div>
             <div className="footer-main-element">
                 <p><b><Trans i18nKey="footer.main.section3.title"/></b></p>
-                <p><Trans i18nKey="footer.main.section3.item1"/></p>
-                <p><Trans i18nKey="footer.main.section3.item2"/></p>
-                <p><Trans i18nKey="footer.main.section3.item3"/></p>
+                <p className="text-small"><Trans i18nKey="footer.main.section3.item1"/></p>
+                <p className="text-small"><Trans i18nKey="footer.main.section3.item2"/></p>
+                <p className="text-small"><Trans i18nKey="footer.main.section3.item3"/></p>
             </div>
         </div>
         <div className="footer-end">
-            <p className="footer-small">Calle San Vicente numero 101, 46001, Valencia, Espana.</p>
-            <p className="footer-small">The CO2 Fight es una marca registrada.</p>
+            <p className="text-tiny">Calle San Vicente numero 101, 46001, Valencia, Espana.</p>
+            <p className="text-tiny">The CO2 Fight es una marca registrada.</p>
         </div>
     </div>
 );
