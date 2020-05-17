@@ -1,8 +1,27 @@
 $color2: rgb(228, 230, 219);
 
+.keyPoints {
+  background: $color2;
+}
+
 .keyPointsWrap {
   display: flex;
   justify-content: space-evenly;
-  padding: 30px 0;
-  background: $color2;
+  padding: 80px 0;
+}
+
+.keyPointsTitle {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.keyPointElement {
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+    text-align: center;
+    
+    >h3 {
+        padding: 8px 0;
+    }
 }

@@ -166,5 +166,20 @@
                 "item3" : "Mapa del sitio web"
            }
         }
+     },
+     "keyPoints" : {
+         "title" : "¿Eres propietario de terrenos con árboles?",
+         "point1": {
+             "title": "Medimos",
+             "text": "Medimos la superficie total de tu campo, y calculamos el total de masa forestal que contiene"
+         },
+         "point2" : {
+             "title": "Certificamos",
+             "text": "Nuestros expertos certifican la cantidad de CO2 que tu campo absorbe por día"
+         },
+         "point3" : {
+             "title": "Vendemos",
+             "text" :"Ponemos a disposición del público las Toneladas de CO2 que tu campo ha absorbido"
+         }
      }
 }
