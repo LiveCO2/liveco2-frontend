@@ -3,6 +3,7 @@ import React from 'react';
 import CardWithImage from './CardWithImage';
 import CardText from './CardText';
 import CardList from './CardList';
+import KeyPoints from './KeyPoints';
 import iconCarrot from './icons/carrot.svg'
 import iconSolarPanel from './icons/045-solar-panel.svg'
 import iconElectricCar from './icons/010-electric-car.svg'
@@ -55,9 +56,10 @@ const co2Absorbed = [
 const Home = () => (
     <div>
         <div className="mainRow">
-        <CardList title="home.card1.title" list={co2Generated} buttonLink="compensate" />
-        <CardList title="home.card2.title" list={co2Absorbed} buttonLink="how-it-works" />
+          <CardList title="home.card1.title" list={co2Generated} buttonLink="compensate" />
+          <CardList title="home.card2.title" list={co2Absorbed} buttonLink="how-it-works" />
         </div>
+        <KeyPoints />
         <CardWithImage />
         <div className="rowContainer">
           <div className="row">
