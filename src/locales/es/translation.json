@@ -56,11 +56,28 @@
         "text3": "The money that rights costs are going to farmers who are signing a public contract where they commit to take very well care of the trees, using only environmental friendly products, building fire protections."
     },
     "sell" : {
-        "title": "Certifica las emisiones de CO2 que tus arboles absorben",
-        "description": "If you have trees or would like to start planting them, taking care of them and want to get money for the amount that your trees absorb, keep reading",
-        "text1": "Our agricoultours and farmers are people enganged with the environment who really want to make a change in the fight with the climate change.",
-        "text2": "In order to put your trees into the pool, and start getting compensation money you have to first apply to us. We have agricultural engineers in our team who will review your land and make a study to understand the number and size of the different trees, and will make an estimation of how much compensation money you can get per month",
-        "text3": "After that, we will come back to you with an answer, if the trees in your land are qualifying for our project, we will sign a public contract to set the expectations from both parts"
+        "title": "Certifica las emisiones de CO2 que absorben tus arboles",
+        "description": "¿Te gustaria ser recompensado por la cantidad de CO2 absorbida tus arboles?",
+        "text1": "Te explicamos como hacerlo en 4 sencillos pasos",
+        "steps" : {
+            "step1" : {
+                "title" : "1. Recopila la informacion necesaria",
+                "text" : "Necesitamos la informacion catastral del terreno, un mapa catastral e imagenes de satelite de tu campo."
+            },
+            "step2" : {
+                "title" : "2. Envianos la documentacion necesaria",
+                "text" : "Nuestros expertos en ingenieria de montes la revisaran y calcularan cuantas toneladas de CO2 pueden absorber tus arboles"
+            },
+            "step3" : {
+                "title" : "3. Recibe los calculos y firma el contrato",
+                "text" : "Te mandaremos los resultados detallados de los calculos, y tambien un contrato en el cual nos cederas (a cambio de dinero!) dichos derechos de absorcion"
+            },
+            "step4" : {
+                "title" : "4. Recibe tu dinero",
+                "text" : "Pondremos a la venta los derechos de absorcion de tus arboles, y en cuanto se vendan procederemos a darte la parte correspondiente"
+            }
+
+        }
     },
     "buy" : {
         "title": "Packs de Absorcion de CO2",

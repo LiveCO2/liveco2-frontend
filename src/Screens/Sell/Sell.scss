@@ -1,4 +1,25 @@
 .sellHeader {
     text-align: center;
     margin: 1%;
+    margin: 5% 0;
+
+    >p {
+        margin: 15px;
+    }
+}
+
+.sellSteps {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.sellStep {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+
+    >img {
+        margin: 10px;
+    }
 }

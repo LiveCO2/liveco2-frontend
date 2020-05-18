@@ -3,14 +3,41 @@ import { Trans } from 'react-i18next';
 
 import "./Sell.scss"
 
+import checklist from '../../icons/checklist.svg'
+import send from '../../icons/send.svg'
+import payment from '../../icons/payment-method.svg'
+import contract from '../../icons/contract.svg'
+
 const Sell = () => (
-    <div className="containerRow">
-        <h2 className="sellHeader"><Trans i18nKey="sell.title"/></h2>
-        <p><Trans i18nKey="sell.description"/></p>
-        <p><Trans i18nKey="sell.text1"/></p>
-        <p><Trans i18nKey="sell.text2"/></p>
-        <p><Trans i17nKey="sell.text3"/></p>
+    <div>
+        <div className="sellHeader">
+            <h2><Trans i18nKey="sell.description"/></h2>
+            <p className="text-big"><Trans i18nKey="sell.text1"/></p>
+        </div>
+        <div className="sellSteps">
+            <div className="sellStep">
+              <h3><Trans i18nKey="sell.steps.step1.title"/></h3>
+              <img src={checklist} alt="Requirements" height="70px" className="icon"></img>
+              <p className="text-medium"><Trans i18nKey="sell.steps.step1.text"/></p>
+            </div>
+            <div className="sellStep">
+              <h3><Trans i18nKey="sell.steps.step2.title"/></h3>
+              <img src={send} alt="Send" height="70px" className="icon"></img>
+              <p className="text-medium"><Trans i18nKey="sell.steps.step2.text"/></p>
+            </div>
+            <div className="sellStep">
+              <h3><Trans i18nKey="sell.steps.step3.title"/></h3>
+              <img src={contract} alt="Contract" height="70px" className="icon"></img>
+              <p className="text-medium"><Trans i18nKey="sell.steps.step3.text"/></p>
+            </div>
+            <div className="sellStep">
+              <h3><Trans i18nKey="sell.steps.step4.title"/></h3>
+              <img src={payment} alt="Payment" height="70px" className="icon"></img>
+              <p className="text-medium"><Trans i18nKey="sell.steps.step4.text"/></p>
+            </div>
+        </div>
     </div>
+
 );
 
 export default Sell;
