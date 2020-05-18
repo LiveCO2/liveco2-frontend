@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9edf44f8d428c6042456cf36c7e7a59",
+    "revision": "c9743444342637e072eefffff1639faf",
     "url": "/compensate/index.html"
   },
   {
-    "revision": "c24c6820f4d7fb172ae2",
-    "url": "/compensate/static/css/main.10f4a739.chunk.css"
+    "revision": "e29d261cf0da27b61512",
+    "url": "/compensate/static/css/main.0e665254.chunk.css"
   },
   {
-    "revision": "2d50580b00f92c87ebb4",
-    "url": "/compensate/static/js/2.9fcaf509.chunk.js"
+    "revision": "050ae57a458fa02f12a2",
+    "url": "/compensate/static/js/2.811430b5.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/compensate/static/js/2.9fcaf509.chunk.js.LICENSE.txt"
+    "url": "/compensate/static/js/2.811430b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c24c6820f4d7fb172ae2",
-    "url": "/compensate/static/js/main.aeb044d7.chunk.js"
+    "revision": "e29d261cf0da27b61512",
+    "url": "/compensate/static/js/main.fb46a590.chunk.js"
   },
   {
     "revision": "730a746e117a1638c493",
@@ -38,6 +38,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "49b1c4011b2672a3206842c6dbbe2b7a",
     "url": "/compensate/static/media/certify.49b1c401.svg"
+  },
+  {
+    "revision": "14221e65a7b48578aee438e4cd8c5300",
+    "url": "/compensate/static/media/checklist.14221e65.svg"
+  },
+  {
+    "revision": "787b051e2d509c66fbe6878ed98695cd",
+    "url": "/compensate/static/media/contract.787b051e.svg"
   },
   {
     "revision": "2cb41e1818bed9d61b3540af1f0716d9",
@@ -78,6 +86,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fcced780a85f5aa4da3b337c61bbdf58",
     "url": "/compensate/static/media/measure.fcced780.svg"
+  },
+  {
+    "revision": "c2bb9ac529b9a8242fbc095671a3e1f3",
+    "url": "/compensate/static/media/payment-method.c2bb9ac5.svg"
+  },
+  {
+    "revision": "7457cb2b0341b07871217ee4fdd3644f",
+    "url": "/compensate/static/media/send.7457cb2b.svg"
   },
   {
     "revision": "206f29a065eea6cb15abb66389ca8db4",
