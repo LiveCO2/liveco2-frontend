@@ -1,7 +1,10 @@
+.sell {
+    background: white;
+}
+
 .sellHeader {
     text-align: center;
-    margin: 1%;
-    margin: 5% 0;
+    padding: 5% 0;
 
     >p {
         margin: 15px;
@@ -17,9 +20,16 @@
 .sellStep {
     display: flex;
     flex-direction: column;
+    max-width: 50%;
+    margin: auto;
     margin-bottom: 50px;
 
     >img {
         margin: 10px;
     }
+
+    >p {
+        max-width: 40%;
+        margin: auto;
+   }
 }

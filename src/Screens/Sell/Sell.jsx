@@ -9,7 +9,7 @@ import payment from '../../icons/payment-method.svg'
 import contract from '../../icons/contract.svg'
 
 const Sell = () => (
-    <div>
+    <div className="sell">
         <div className="sellHeader">
             <h2><Trans i18nKey="sell.description"/></h2>
             <p className="text-big"><Trans i18nKey="sell.text1"/></p>
@@ -34,6 +34,9 @@ const Sell = () => (
               <h3><Trans i18nKey="sell.steps.step4.title"/></h3>
               <img src={payment} alt="Payment" height="70px" className="icon"></img>
               <p className="text-medium"><Trans i18nKey="sell.steps.step4.text"/></p>
+            </div>
+            <div>
+              <h4>Interesado?</h4>
             </div>
         </div>
     </div>

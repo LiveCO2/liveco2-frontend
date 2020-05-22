@@ -65,7 +65,7 @@
                 "text" : "Necesitamos la informacion catastral del terreno, un mapa catastral e imagenes de satelite de tu campo."
             },
             "step2" : {
-                "title" : "2. Envianos la documentacion necesaria",
+                "title" : "2. Envianos la documentacion",
                 "text" : "Nuestros expertos en ingenieria de montes la revisaran y calcularan cuantas toneladas de CO2 pueden absorber tus arboles"
             },
             "step3" : {
@@ -186,6 +186,7 @@
      },
      "keyPoints" : {
          "title" : "¿Eres propietario de terrenos con árboles?",
+         "button" : "Unete a nosotros",
          "point1": {
              "title": "Medimos",
              "text": "Medimos la superficie total de tu campo, y calculamos el total de masa forestal que contiene"

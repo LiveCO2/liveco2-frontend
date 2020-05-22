@@ -1,4 +1,7 @@
 import React from 'react';
+import { Trans } from 'react-i18next';
+
+import "./Home.scss"
 
 import CardWithImage from './CardWithImage';
 import CardText from './CardText';
@@ -10,6 +13,7 @@ import iconElectricCar from './icons/010-electric-car.svg'
 import iconTree1 from './icons/tree-1.svg'
 import iconTree2 from './icons/tree-2.svg'
 import iconTree3 from './icons/tree-3.svg'
+import Button from './Button';
 
 const co2Generated = [
   {
@@ -60,12 +64,15 @@ const Home = () => (
           <CardList title="home.card2.title" list={co2Absorbed} buttonLink="how-it-works" />
         </div>
         <KeyPoints />
-        <CardWithImage />
+        <div className="keyPointsButton">
+            <Button link="enroll-trees" tk="keyPoints.button"/>
+        </div>
         <div className="rowContainer">
           <div className="row">
             <CardText />
           </div>
         </div>
+        <CardWithImage />
     </div>
 );
 
