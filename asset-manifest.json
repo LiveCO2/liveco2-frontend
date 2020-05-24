@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/compensate/static/css/main.a48aaa29.chunk.css",
-    "main.js": "/compensate/static/js/main.49c922ae.chunk.js",
-    "main.js.map": "/compensate/static/js/main.49c922ae.chunk.js.map",
+    "main.css": "/compensate/static/css/main.aec0c74f.chunk.css",
+    "main.js": "/compensate/static/js/main.fe5b4851.chunk.js",
+    "main.js.map": "/compensate/static/js/main.fe5b4851.chunk.js.map",
     "runtime-main.js": "/compensate/static/js/runtime-main.40ee356a.js",
     "runtime-main.js.map": "/compensate/static/js/runtime-main.40ee356a.js.map",
-    "static/js/2.bee35ef1.chunk.js": "/compensate/static/js/2.bee35ef1.chunk.js",
-    "static/js/2.bee35ef1.chunk.js.map": "/compensate/static/js/2.bee35ef1.chunk.js.map",
+    "static/js/2.c9721eb5.chunk.js": "/compensate/static/js/2.c9721eb5.chunk.js",
+    "static/js/2.c9721eb5.chunk.js.map": "/compensate/static/js/2.c9721eb5.chunk.js.map",
     "index.html": "/compensate/index.html",
-    "precache-manifest.3173241c1c9094843d0d8e699602ee06.js": "/compensate/precache-manifest.3173241c1c9094843d0d8e699602ee06.js",
+    "precache-manifest.31d9c3008b062c7aa863828092d288fb.js": "/compensate/precache-manifest.31d9c3008b062c7aa863828092d288fb.js",
     "service-worker.js": "/compensate/service-worker.js",
-    "static/css/main.a48aaa29.chunk.css.map": "/compensate/static/css/main.a48aaa29.chunk.css.map",
-    "static/js/2.bee35ef1.chunk.js.LICENSE.txt": "/compensate/static/js/2.bee35ef1.chunk.js.LICENSE.txt",
+    "static/css/main.aec0c74f.chunk.css.map": "/compensate/static/css/main.aec0c74f.chunk.css.map",
+    "static/js/2.c9721eb5.chunk.js.LICENSE.txt": "/compensate/static/js/2.c9721eb5.chunk.js.LICENSE.txt",
     "static/media/010-electric-car.svg": "/compensate/static/media/010-electric-car.e7d3f73c.svg",
     "static/media/045-solar-panel.svg": "/compensate/static/media/045-solar-panel.5acd37d5.svg",
     "static/media/carrot.svg": "/compensate/static/media/carrot.7dfd44f2.svg",
@@ -28,17 +28,20 @@
     "static/media/market.svg": "/compensate/static/media/market.080a376a.svg",
     "static/media/measure.svg": "/compensate/static/media/measure.fcced780.svg",
     "static/media/payment-method.svg": "/compensate/static/media/payment-method.c2bb9ac5.svg",
+    "static/media/phone.png": "/compensate/static/media/phone.e8c7173c.png",
     "static/media/send.svg": "/compensate/static/media/send.7457cb2b.svg",
     "static/media/silver-medal.svg": "/compensate/static/media/silver-medal.206f29a0.svg",
+    "static/media/telegram_logo_32px.svg": "/compensate/static/media/telegram_logo_32px.8d335c7b.svg",
     "static/media/tree-1.svg": "/compensate/static/media/tree-1.a413567c.svg",
     "static/media/tree-2.svg": "/compensate/static/media/tree-2.ba37a0d2.svg",
     "static/media/tree-3.svg": "/compensate/static/media/tree-3.7a6ef5f4.svg",
-    "static/media/user.svg": "/compensate/static/media/user.7de5e5f7.svg"
+    "static/media/user.svg": "/compensate/static/media/user.7de5e5f7.svg",
+    "static/media/whatsapp-logo.png": "/compensate/static/media/whatsapp-logo.07defab8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.40ee356a.js",
-    "static/js/2.bee35ef1.chunk.js",
-    "static/css/main.a48aaa29.chunk.css",
-    "static/js/main.49c922ae.chunk.js"
+    "static/js/2.c9721eb5.chunk.js",
+    "static/css/main.aec0c74f.chunk.css",
+    "static/js/main.fe5b4851.chunk.js"
   ]
 }

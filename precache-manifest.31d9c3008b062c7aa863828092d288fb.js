@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ddf038f1e9dd46eed157437817159a6",
+    "revision": "d25a5830589a93efed178fcf76a708ea",
     "url": "/compensate/index.html"
   },
   {
-    "revision": "4b366e66377fada5b42a",
-    "url": "/compensate/static/css/main.a48aaa29.chunk.css"
+    "revision": "5a29935bc7bff9f493d2",
+    "url": "/compensate/static/css/main.aec0c74f.chunk.css"
   },
   {
-    "revision": "1d66ff74061c6e7ac861",
-    "url": "/compensate/static/js/2.bee35ef1.chunk.js"
+    "revision": "8bfacb6f8e84e541a155",
+    "url": "/compensate/static/js/2.c9721eb5.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/compensate/static/js/2.bee35ef1.chunk.js.LICENSE.txt"
+    "url": "/compensate/static/js/2.c9721eb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4b366e66377fada5b42a",
-    "url": "/compensate/static/js/main.49c922ae.chunk.js"
+    "revision": "5a29935bc7bff9f493d2",
+    "url": "/compensate/static/js/main.fe5b4851.chunk.js"
   },
   {
     "revision": "730a746e117a1638c493",
@@ -92,12 +92,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/compensate/static/media/payment-method.c2bb9ac5.svg"
   },
   {
+    "revision": "e8c7173cacce1fa3620ed8b8ef426547",
+    "url": "/compensate/static/media/phone.e8c7173c.png"
+  },
+  {
     "revision": "7457cb2b0341b07871217ee4fdd3644f",
     "url": "/compensate/static/media/send.7457cb2b.svg"
   },
   {
     "revision": "206f29a065eea6cb15abb66389ca8db4",
     "url": "/compensate/static/media/silver-medal.206f29a0.svg"
+  },
+  {
+    "revision": "8d335c7b474973096227697b416907ed",
+    "url": "/compensate/static/media/telegram_logo_32px.8d335c7b.svg"
   },
   {
     "revision": "a413567ce97bdf99fe96bd9ba0cc65eb",
@@ -114,5 +122,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7de5e5f7d3fbd734c8d9328cc6806365",
     "url": "/compensate/static/media/user.7de5e5f7.svg"
+  },
+  {
+    "revision": "07defab898fa9c9113255307ffb5b144",
+    "url": "/compensate/static/media/whatsapp-logo.07defab8.png"
   }
 ]);
