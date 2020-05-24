@@ -1,0 +1,45 @@
+.contactHeader {
+    background: url('../../images/forest-1.jpg') center/cover;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+.contactForm {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+
+    >b>p {
+        padding-bottom: 5px;
+    }
+
+    >label {
+        padding: 5px;
+    }
+}
+
+.contactTitle {
+    padding: 40px;
+    text-align: center;
+}
+
+.contactMain {
+    display: flex;
+    padding-bottom: 40px;
+    justify-content: center;
+    width: 60%;
+    margin: auto;
+}
+
+.contactMethods {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.contactImage {
+    height: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

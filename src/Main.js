@@ -6,7 +6,8 @@ import Home from "./Home";
 import Buy from "./Screens/Buy/Buy";
 import Sell from "./Screens/Sell/Sell";
 import Faq from "./Screens/Faq";
-import Footer from "./Footer/Footer"
+import Footer from "./Footer/Footer";
+import Contact from "./Screens/Contact/Contact";
 
 const Main = () => (
     <BrowserRouter basename={process.env.PUBLIC_URL}>
@@ -16,6 +17,7 @@ const Main = () => (
             <Route path="/compensate" component={Buy}/>
             <Route path="/enroll-trees" component={Sell}/>
             <Route path="/faq" component={Faq}/>
+            <Route path="/contact" component={Contact}/>
         </div>
         <Footer/>
     </BrowserRouter>

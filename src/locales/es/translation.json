@@ -5,7 +5,8 @@
         "compensate": "Compensa tus emisiones",
         "enroll-trees": "Certifica tus arboles",
         "about": "Como funciona",
-        "faq": "FAQ"
+        "faq": "FAQ",
+        "contact" : "Contacto"
     },
     "faq" : {
         "general" : {
@@ -198,6 +199,28 @@
          "point3" : {
              "title": "Vendemos",
              "text" :"Ponemos a disposición del público las Toneladas de CO2 que tu campo ha absorbido"
+         }
+     },
+     "contact" : {
+         "title" : "Contacta con nosotros",
+         "subtitle" : "Estamos preparados para afrontar todos los retos que se nos pongan por delante",
+         "main" : {
+             "title" : "Nos pondremos en contacto contigo lo antes posible."
+         },
+         "form" : {
+             "title" : "Usa nuestro formulario",
+             "name" : "Nombre",
+             "last" : "Apellido",
+             "mail" : "Correo Electronico",
+             "tel"  : "Numero de telefono",
+             "content" : "Tu mensaje",
+             "button" : "Enviar"
+         },
+         "methods" : {
+             "whatsapp" : "Mandanos un Whatsapp",
+             "telegram" : "Contactanos en Telegram",
+             "tel" : "Llamanos por telefono",
+             "mail" : "Escribenos un email"
          }
      }
 }
