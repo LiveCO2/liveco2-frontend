@@ -2,3 +2,26 @@
   text-align: center;  
   padding-bottom: 40px;
 }
+
+.homeImpact {
+    text-align: center;
+    height: 250px;
+}
+
+.homeImpactTitle {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.homeImpactStatNumber {
+    font-size: 50px;
+}
+
+.homeImpactStats {
+    display: flex;
+    justify-content: center;
+}
+
+.homeImpactStat {
+    padding: 10px;
+}

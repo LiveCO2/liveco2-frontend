@@ -40,7 +40,7 @@ const Contact = () => (
                     <p><Trans i18nKey="contact.form.content"/></p>
                     <textarea type="text" id="content" name="content"  rows="10" cols="35"/>
                 </label>
-                <input type="submit" value=<Trans i18nKey="contact.form.button"/>/>
+                <input type="submit" value={<Trans i18nKey="contact.form.button"/>}/>
             </form>
             <div className="contactMethods">
                 <div>

@@ -72,6 +72,23 @@ const Home = () => (
           </div>
         </div>
         <CardWithImage />
+        <div className="homeImpact">
+            <h2 className="homeImpactTitle">Nuestro proyecto en numeros</h2>
+            <div className="homeImpactStats">
+               <div className="homeImpactStat">
+                   <h4>Hectareas de bosque auditadas</h4>
+                   <h4 className="homeImpactStatNumber">10.9</h4>
+               </div>
+               <div className="homeImpactStat">
+                   <h4>Toneladas Absorbidas auditadas</h4>
+                   <h4 className="homeImpactStatNumber">152.89</h4>
+               </div>
+               <div className="homeImpactStat">
+                   <h4>Toneladas de carbono compensadas</h4>
+                   <h4 className="homeImpactStatNumber">87.12</h4>
+               </div>
+            </div>
+        </div>
     </div>
 );
 

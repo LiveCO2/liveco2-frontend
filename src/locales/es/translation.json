@@ -77,8 +77,8 @@
                 "title" : "4. Recibe tu dinero",
                 "text" : "Pondremos a la venta los derechos de absorcion de tus arboles, y en cuanto se vendan procederemos a darte la parte correspondiente"
             }
-
-        }
+        },
+        "button": "Contacta con nostros"
     },
     "buy" : {
         "title": "Packs de Absorcion de CO2",
@@ -146,9 +146,9 @@
             "button": "Empieza a compensar ahora"
         },
         "box1": {
-            "title": "Te presentamos nuestros packs compensatorios!",
+            "title": "Te presentamos nuestros packs de absorcion de carbono",
             "text2": "Usando nuestra plataforma puedes comprar packs certificados de Toneladas absorbidas de CO2",
-            "text3": "Empieza compensando las Toneladas de CO2 que generas diariamente con un Pack Diario",
+            "text3": "Empieza compensando las Toneladas de CO2 que generas diariamente con nuestro Pack Diario",
             "button": "Nuestras ofertas"
         },
         "box2": {

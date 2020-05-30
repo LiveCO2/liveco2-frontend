@@ -7,6 +7,7 @@ import checklist from '../../icons/checklist.svg'
 import send from '../../icons/send.svg'
 import payment from '../../icons/payment-method.svg'
 import contract from '../../icons/contract.svg'
+import Button from '../../Button';
 
 const Sell = () => (
     <div className="sell">
@@ -36,7 +37,10 @@ const Sell = () => (
               <p className="text-medium"><Trans i18nKey="sell.steps.step4.text"/></p>
             </div>
             <div>
-              <h4>Interesado?</h4>
+              <h3>Interesado?</h3>
+            </div>
+            <div className="sellButton">
+              <Button link="contact" tk="sell.button" />
             </div>
         </div>
     </div>

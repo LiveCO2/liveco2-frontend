@@ -5,6 +5,8 @@ import Button from '../Button';
 import legoForest from '../images/lego-forest-removebg-preview.png'
 
 import './CardWithImage.scss';
+import Product from "../Product/Product";
+import silverMedal from '../icons/silver-medal.svg'
 
 const CardWithImage = () => (
   <div className="cardContainer">
@@ -15,7 +17,12 @@ const CardWithImage = () => (
           <Button link="compensate" tk="home.box1.button" />
       </div>
       <div className="cardImage">
-          <img src={legoForest} alt="Lego Farmer"></img>
+            <Product 
+                img={silverMedal}
+                title="buy.products.product1.price" 
+                desc="buy.products.product1.description"
+                buttonText="buy.products.button"
+            />
       </div>
   </div>
 );
