@@ -1,0 +1,16 @@
+.projectTeam {
+    display: flex;
+}
+
+.projectTeamMember {
+    width: 250px;
+    text-align: center;
+}
+
+.projectTeamMemberPic { 
+   border: 1px solid #ddd;
+   border-radius: 4px;
+   padding: 5px;
+   max-width: 100%;
+   height: auto;
+ }

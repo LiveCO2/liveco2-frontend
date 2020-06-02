@@ -6,6 +6,7 @@
         "enroll-trees": "Certifica tus arboles",
         "about": "Como funciona",
         "faq": "FAQ",
+        "project": "Proyecto",
         "contact" : "Contacto"
     },
     "faq" : {
@@ -221,6 +222,30 @@
              "telegram" : "Contactanos en Telegram",
              "tel" : "Llamanos por telefono",
              "mail" : "Escribenos un email"
+         }
+     },
+     "project": {
+         "members": {
+             "1": {
+                 "name": "Juan Manuel Romero",
+                 "title": "Chief Executive Office",
+                 "bio": "Lorem Impsum biography of the member. Three lines describing his achivements and strengths"
+             },
+             "2": {
+                 "name": "Carlos Romero",
+                 "title": "Chief Engineer Officer",
+                 "bio": "Lorem Impsum biography of the member. Three lines describing his achivements and strengths"
+             },
+             "3": {
+                 "name": "Carlos Gadea",
+                 "title": "Chief Policy Offices",
+                 "bio": "Lorem Impsum biography of the member. Three lines describing his achivements and strengths"
+             },
+             "4": {
+                 "name": "Alberto del Barrio",
+                 "title": "Chief Technical Officer",
+                 "bio": "Lorem Impsum biography of the member. Three lines describing his achivements and strengths"
+             }
          }
      }
 }

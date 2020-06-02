@@ -11,6 +11,7 @@ const Header = () => (
             <NavLink className="header-link" to="/compensate"><Trans i18nKey="header.compensate"/></NavLink>
             <NavLink className="header-link" to="/enroll-trees"><Trans i18nKey="header.enroll-trees"/></NavLink>
             <NavLink className="header-link" to="/faq"><Trans i18nKey="header.faq"/></NavLink>
+            <NavLink className="header-link" to="/project"><Trans i18nKey="header.project"/></NavLink>
             <NavLink className="header-link" to="/contact"><Trans i18nKey="header.contact"/></NavLink>
         </div>
         <div className="header-right">

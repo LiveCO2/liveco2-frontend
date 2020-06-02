@@ -7,6 +7,7 @@ import Buy from "./Screens/Buy/Buy";
 import Sell from "./Screens/Sell/Sell";
 import Faq from "./Screens/Faq";
 import Footer from "./Footer/Footer";
+import Project from "./Screens/Project/Project";
 import Contact from "./Screens/Contact/Contact";
 
 const Main = () => (
@@ -17,6 +18,7 @@ const Main = () => (
             <Route path="/compensate" component={Buy}/>
             <Route path="/enroll-trees" component={Sell}/>
             <Route path="/faq" component={Faq}/>
+            <Route path="/project" component={Project}/>
             <Route path="/contact" component={Contact}/>
         </div>
         <Footer/>
