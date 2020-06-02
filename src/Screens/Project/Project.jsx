@@ -18,25 +18,25 @@ const Project = () => (
         </div>
         <div className="projectTeam">
             <div className="projectTeamMember">
-                <img className="projectTeamMemberPic" src={head1} alt="project member picture" />
+                <img className="projectTeamMemberPic" src={head1} alt="project member" />
                 <h4 className="projectTeamMemberName"><Trans i18nKey="project.members.1.name"/></h4>
                 <h5 className="projectTeamMemberTitle"><Trans i18nKey="project.members.1.title"/></h5>
                 <p className="text-small"><Trans i18nKey="project.members.1.bio"/></p>
             </div>
             <div className="projectTeamMember">
-                <img className="projectTeamMemberPic" src={head2} alt="project member picture" />
+                <img className="projectTeamMemberPic" src={head2} alt="project member" />
                 <h4 className="projectTeamMemberName"><Trans i18nKey="project.members.2.name"/></h4>
                 <h5 className="projectTeamMemberTitle"><Trans i18nKey="project.members.2.title"/></h5>
                 <p className="text-small"><Trans i18nKey="project.members.2.bio"/></p>
             </div>
             <div className="projectTeamMember">
-                <img className="projectTeamMemberPic" src={head3} alt="project member picture" />
+                <img className="projectTeamMemberPic" src={head3} alt="project member" />
                 <h4 className="projectTeamMemberName"><Trans i18nKey="project.members.3.name"/></h4>
                 <h5 className="projectTeamMemberTitle"><Trans i18nKey="project.members.3.title"/></h5>
                 <p className="text-small"><Trans i18nKey="project.members.3.bio"/></p>
             </div>
             <div className="projectTeamMember">
-                <img className="projectTeamMemberPic" src={head4} alt="project member picture" />
+                <img className="projectTeamMemberPic" src={head4} alt="project member" />
                 <h4 className="projectTeamMemberName"><Trans i18nKey="project.members.4.name"/></h4>
                 <h5 className="projectTeamMemberTitle"><Trans i18nKey="project.members.4.title"/></h5>
                 <p className="text-small"><Trans i18nKey="project.members.4.bio"/></p>
