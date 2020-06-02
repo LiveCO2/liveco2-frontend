@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/compensate/static/css/main.aec0c74f.chunk.css",
-    "main.js": "/compensate/static/js/main.fe5b4851.chunk.js",
-    "main.js.map": "/compensate/static/js/main.fe5b4851.chunk.js.map",
+    "main.css": "/compensate/static/css/main.c9616bfe.chunk.css",
+    "main.js": "/compensate/static/js/main.e8041b19.chunk.js",
+    "main.js.map": "/compensate/static/js/main.e8041b19.chunk.js.map",
     "runtime-main.js": "/compensate/static/js/runtime-main.40ee356a.js",
     "runtime-main.js.map": "/compensate/static/js/runtime-main.40ee356a.js.map",
-    "static/js/2.c9721eb5.chunk.js": "/compensate/static/js/2.c9721eb5.chunk.js",
-    "static/js/2.c9721eb5.chunk.js.map": "/compensate/static/js/2.c9721eb5.chunk.js.map",
+    "static/js/2.ef11b996.chunk.js": "/compensate/static/js/2.ef11b996.chunk.js",
+    "static/js/2.ef11b996.chunk.js.map": "/compensate/static/js/2.ef11b996.chunk.js.map",
     "index.html": "/compensate/index.html",
-    "precache-manifest.31d9c3008b062c7aa863828092d288fb.js": "/compensate/precache-manifest.31d9c3008b062c7aa863828092d288fb.js",
+    "precache-manifest.991357f3b32e1e8ebcd9eb085ac9c5e6.js": "/compensate/precache-manifest.991357f3b32e1e8ebcd9eb085ac9c5e6.js",
     "service-worker.js": "/compensate/service-worker.js",
-    "static/css/main.aec0c74f.chunk.css.map": "/compensate/static/css/main.aec0c74f.chunk.css.map",
-    "static/js/2.c9721eb5.chunk.js.LICENSE.txt": "/compensate/static/js/2.c9721eb5.chunk.js.LICENSE.txt",
+    "static/css/main.c9616bfe.chunk.css.map": "/compensate/static/css/main.c9616bfe.chunk.css.map",
+    "static/js/2.ef11b996.chunk.js.LICENSE.txt": "/compensate/static/js/2.ef11b996.chunk.js.LICENSE.txt",
     "static/media/010-electric-car.svg": "/compensate/static/media/010-electric-car.e7d3f73c.svg",
     "static/media/045-solar-panel.svg": "/compensate/static/media/045-solar-panel.5acd37d5.svg",
     "static/media/carrot.svg": "/compensate/static/media/carrot.7dfd44f2.svg",
@@ -22,9 +22,13 @@
     "static/media/envelope.svg": "/compensate/static/media/envelope.cb79f232.svg",
     "static/media/facebook.svg": "/compensate/static/media/facebook.422e7665.svg",
     "static/media/index.scss": "/compensate/static/media/forest-2.d611e140.jpg",
+    "static/media/Contact.scss": "/compensate/static/media/forest-4.741643f5.jpg",
     "static/media/gold-medal.svg": "/compensate/static/media/gold-medal.94cf35bb.svg",
+    "static/media/headshot-1.jpg": "/compensate/static/media/headshot-1.a4fb851c.jpg",
+    "static/media/headshot-2.jpg": "/compensate/static/media/headshot-2.b420c698.jpg",
+    "static/media/headshot-3.jpg": "/compensate/static/media/headshot-3.ce5cfdc2.jpg",
+    "static/media/headshot-4.jpg": "/compensate/static/media/headshot-4.98c529d3.jpg",
     "static/media/instagram.svg": "/compensate/static/media/instagram.91a8e68d.svg",
-    "static/media/lego-forest-removebg-preview.png": "/compensate/static/media/lego-forest-removebg-preview.41ef753a.png",
     "static/media/market.svg": "/compensate/static/media/market.080a376a.svg",
     "static/media/measure.svg": "/compensate/static/media/measure.fcced780.svg",
     "static/media/payment-method.svg": "/compensate/static/media/payment-method.c2bb9ac5.svg",
@@ -40,8 +44,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.40ee356a.js",
-    "static/js/2.c9721eb5.chunk.js",
-    "static/css/main.aec0c74f.chunk.css",
-    "static/js/main.fe5b4851.chunk.js"
+    "static/js/2.ef11b996.chunk.js",
+    "static/css/main.c9616bfe.chunk.css",
+    "static/js/main.e8041b19.chunk.js"
   ]
 }

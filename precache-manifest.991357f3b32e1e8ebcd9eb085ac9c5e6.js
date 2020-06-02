@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d25a5830589a93efed178fcf76a708ea",
+    "revision": "cf6b82c5ec243b74cfa60405c3605e7e",
     "url": "/compensate/index.html"
   },
   {
-    "revision": "5a29935bc7bff9f493d2",
-    "url": "/compensate/static/css/main.aec0c74f.chunk.css"
+    "revision": "5309f2370c650165df35",
+    "url": "/compensate/static/css/main.c9616bfe.chunk.css"
   },
   {
-    "revision": "8bfacb6f8e84e541a155",
-    "url": "/compensate/static/js/2.c9721eb5.chunk.js"
+    "revision": "e32f1dea2765625f7ec0",
+    "url": "/compensate/static/js/2.ef11b996.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/compensate/static/js/2.c9721eb5.chunk.js.LICENSE.txt"
+    "url": "/compensate/static/js/2.ef11b996.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a29935bc7bff9f493d2",
-    "url": "/compensate/static/js/main.fe5b4851.chunk.js"
+    "revision": "5309f2370c650165df35",
+    "url": "/compensate/static/js/main.e8041b19.chunk.js"
   },
   {
     "revision": "730a746e117a1638c493",
@@ -68,16 +68,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/compensate/static/media/forest-2.d611e140.jpg"
   },
   {
+    "revision": "741643f5896952d36710d6b42c53f566",
+    "url": "/compensate/static/media/forest-4.741643f5.jpg"
+  },
+  {
     "revision": "94cf35bb16b6d53fe91318af39b6437e",
     "url": "/compensate/static/media/gold-medal.94cf35bb.svg"
   },
   {
-    "revision": "91a8e68dd3c119bb22f52aaff450c3b9",
-    "url": "/compensate/static/media/instagram.91a8e68d.svg"
+    "revision": "a4fb851cf4c0bb64bb1b9f99eb1ff112",
+    "url": "/compensate/static/media/headshot-1.a4fb851c.jpg"
   },
   {
-    "revision": "41ef753a3c15449ca9e9bfb3d0dd82d3",
-    "url": "/compensate/static/media/lego-forest-removebg-preview.41ef753a.png"
+    "revision": "b420c698ff614b895af0bf32409c826b",
+    "url": "/compensate/static/media/headshot-2.b420c698.jpg"
+  },
+  {
+    "revision": "ce5cfdc229525fc2c1ae3c0e8762f0db",
+    "url": "/compensate/static/media/headshot-3.ce5cfdc2.jpg"
+  },
+  {
+    "revision": "98c529d33ec99d25af4ac0105dcb6a37",
+    "url": "/compensate/static/media/headshot-4.98c529d3.jpg"
+  },
+  {
+    "revision": "91a8e68dd3c119bb22f52aaff450c3b9",
+    "url": "/compensate/static/media/instagram.91a8e68d.svg"
   },
   {
     "revision": "080a376a3ce546252c1ebf6b25321047",
