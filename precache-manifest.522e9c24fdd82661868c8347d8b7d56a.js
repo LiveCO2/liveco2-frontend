@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf6b82c5ec243b74cfa60405c3605e7e",
+    "revision": "ad8a5407efc9915cf99b16ac7d3019ec",
     "url": "/compensate/index.html"
   },
   {
-    "revision": "5309f2370c650165df35",
-    "url": "/compensate/static/css/main.c9616bfe.chunk.css"
+    "revision": "da1450ff57d1f58906dc",
+    "url": "/compensate/static/css/main.3e905001.chunk.css"
   },
   {
-    "revision": "e32f1dea2765625f7ec0",
-    "url": "/compensate/static/js/2.ef11b996.chunk.js"
+    "revision": "36eef21c08580de5bee5",
+    "url": "/compensate/static/js/2.fe21793f.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/compensate/static/js/2.ef11b996.chunk.js.LICENSE.txt"
+    "url": "/compensate/static/js/2.fe21793f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5309f2370c650165df35",
-    "url": "/compensate/static/js/main.e8041b19.chunk.js"
+    "revision": "da1450ff57d1f58906dc",
+    "url": "/compensate/static/js/main.482020c6.chunk.js"
   },
   {
     "revision": "730a746e117a1638c493",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/compensate/static/media/headshot-3.ce5cfdc2.jpg"
   },
   {
-    "revision": "98c529d33ec99d25af4ac0105dcb6a37",
-    "url": "/compensate/static/media/headshot-4.98c529d3.jpg"
+    "revision": "c44fbb40054e312e4e9c0133c11f9e3d",
+    "url": "/compensate/static/media/headshot-4.c44fbb40.jpg"
   },
   {
     "revision": "91a8e68dd3c119bb22f52aaff450c3b9",
@@ -134,6 +134,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7a6ef5f47c70271087c02cca80166cca",
     "url": "/compensate/static/media/tree-3.7a6ef5f4.svg"
+  },
+  {
+    "revision": "aaaa4cb6f3193c73dd0d37cf0a262c29",
+    "url": "/compensate/static/media/upm-montes-escudo.aaaa4cb6.png"
   },
   {
     "revision": "7de5e5f7d3fbd734c8d9328cc6806365",

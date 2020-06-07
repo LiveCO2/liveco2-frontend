@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/compensate/static/css/main.c9616bfe.chunk.css",
-    "main.js": "/compensate/static/js/main.e8041b19.chunk.js",
-    "main.js.map": "/compensate/static/js/main.e8041b19.chunk.js.map",
+    "main.css": "/compensate/static/css/main.3e905001.chunk.css",
+    "main.js": "/compensate/static/js/main.482020c6.chunk.js",
+    "main.js.map": "/compensate/static/js/main.482020c6.chunk.js.map",
     "runtime-main.js": "/compensate/static/js/runtime-main.40ee356a.js",
     "runtime-main.js.map": "/compensate/static/js/runtime-main.40ee356a.js.map",
-    "static/js/2.ef11b996.chunk.js": "/compensate/static/js/2.ef11b996.chunk.js",
-    "static/js/2.ef11b996.chunk.js.map": "/compensate/static/js/2.ef11b996.chunk.js.map",
+    "static/js/2.fe21793f.chunk.js": "/compensate/static/js/2.fe21793f.chunk.js",
+    "static/js/2.fe21793f.chunk.js.map": "/compensate/static/js/2.fe21793f.chunk.js.map",
     "index.html": "/compensate/index.html",
-    "precache-manifest.991357f3b32e1e8ebcd9eb085ac9c5e6.js": "/compensate/precache-manifest.991357f3b32e1e8ebcd9eb085ac9c5e6.js",
+    "precache-manifest.522e9c24fdd82661868c8347d8b7d56a.js": "/compensate/precache-manifest.522e9c24fdd82661868c8347d8b7d56a.js",
     "service-worker.js": "/compensate/service-worker.js",
-    "static/css/main.c9616bfe.chunk.css.map": "/compensate/static/css/main.c9616bfe.chunk.css.map",
-    "static/js/2.ef11b996.chunk.js.LICENSE.txt": "/compensate/static/js/2.ef11b996.chunk.js.LICENSE.txt",
+    "static/css/main.3e905001.chunk.css.map": "/compensate/static/css/main.3e905001.chunk.css.map",
+    "static/js/2.fe21793f.chunk.js.LICENSE.txt": "/compensate/static/js/2.fe21793f.chunk.js.LICENSE.txt",
     "static/media/010-electric-car.svg": "/compensate/static/media/010-electric-car.e7d3f73c.svg",
     "static/media/045-solar-panel.svg": "/compensate/static/media/045-solar-panel.5acd37d5.svg",
     "static/media/carrot.svg": "/compensate/static/media/carrot.7dfd44f2.svg",
@@ -27,7 +27,7 @@
     "static/media/headshot-1.jpg": "/compensate/static/media/headshot-1.a4fb851c.jpg",
     "static/media/headshot-2.jpg": "/compensate/static/media/headshot-2.b420c698.jpg",
     "static/media/headshot-3.jpg": "/compensate/static/media/headshot-3.ce5cfdc2.jpg",
-    "static/media/headshot-4.jpg": "/compensate/static/media/headshot-4.98c529d3.jpg",
+    "static/media/headshot-4.jpg": "/compensate/static/media/headshot-4.c44fbb40.jpg",
     "static/media/instagram.svg": "/compensate/static/media/instagram.91a8e68d.svg",
     "static/media/market.svg": "/compensate/static/media/market.080a376a.svg",
     "static/media/measure.svg": "/compensate/static/media/measure.fcced780.svg",
@@ -39,13 +39,14 @@
     "static/media/tree-1.svg": "/compensate/static/media/tree-1.a413567c.svg",
     "static/media/tree-2.svg": "/compensate/static/media/tree-2.ba37a0d2.svg",
     "static/media/tree-3.svg": "/compensate/static/media/tree-3.7a6ef5f4.svg",
+    "static/media/upm-montes-escudo.png": "/compensate/static/media/upm-montes-escudo.aaaa4cb6.png",
     "static/media/user.svg": "/compensate/static/media/user.7de5e5f7.svg",
     "static/media/whatsapp-logo.png": "/compensate/static/media/whatsapp-logo.07defab8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.40ee356a.js",
-    "static/js/2.ef11b996.chunk.js",
-    "static/css/main.c9616bfe.chunk.css",
-    "static/js/main.e8041b19.chunk.js"
+    "static/js/2.fe21793f.chunk.js",
+    "static/css/main.3e905001.chunk.css",
+    "static/js/main.482020c6.chunk.js"
   ]
 }
