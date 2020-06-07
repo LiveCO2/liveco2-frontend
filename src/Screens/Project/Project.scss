@@ -1,10 +1,17 @@
-.projectTeam {
+.project {
+    width: 70%;
+    margin: auto;
+}
+
+.projectTeamMembers {
     display: flex;
+    justify-content: center;
 }
 
 .projectTeamMember {
-    width: 250px;
+    width: 175px;
     text-align: center;
+    padding-right: 25px;
 }
 
 .projectTeamMemberPic { 
@@ -13,4 +20,43 @@
    padding: 5px;
    max-width: 100%;
    height: auto;
+ }
+
+.projectTitle {
+     text-align: center;
+     padding-top: 25px;
+     padding-bottom: 25px;
+}
+
+.projectMission {
+    display: flex;
+    flex-direction: column;
+}
+
+.projectMissionText {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 50px;
+    font-style: italic;
+}
+
+.projectPartners {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+   >p {
+       margin-bottom: 50px;
+   }
+}
+
+.projectPartnerPic { 
+   border: 1px solid #ddd;
+   border-radius: 4px;
+   padding: 5px;
+   max-width: 100%;
+   height: 60%;
+   margin: auto;
+   margin-bottom: 10px;
  }

@@ -225,7 +225,20 @@
          }
      },
      "project": {
+         "mision" : {
+             "title": "Nuestra Mision",
+             "mision": "LiveCO2 nace con el objetivo de cuantificar el CO2 que absorben los sumideros naturales de titularidad privada y pública para, posteriormente, dotarlo de valor económico e introducirlo en el mercado a través de las herramientas y estrategias de la compañía."
+         },
+         "partners": {
+             "title": "Nuestros Partners",
+             "picTitle": "Escuela Técnica Superior de Ingenieros de Montes: Universidad Politécnica de Madrid",
+             "picDescription": "Trabajamos con ingenieros de la Universidad Politecnica de Madrid, ellos calculan las obsorciones de carbono que realizan los diferentes sumideros naturales"
+         },
+         "projects": {
+             "title": "Proyectos realizados"
+         },
          "members": {
+             "title": "Conoce a nuestro equipo",
              "1": {
                  "name": "Juan Manuel Romero",
                  "title": "Chief Executive Office",
