@@ -2,17 +2,17 @@ import React from 'react';
 
 import "./Home.scss"
 
-import CardWithImage from './CardWithImage';
-import CardText from './CardText';
-import CardList from './CardList';
-import KeyPoints from './KeyPoints';
-import iconCarrot from './icons/carrot.svg'
-import iconSolarPanel from './icons/045-solar-panel.svg'
-import iconElectricCar from './icons/010-electric-car.svg'
-import iconTree1 from './icons/tree-1.svg'
-import iconTree2 from './icons/tree-2.svg'
-import iconTree3 from './icons/tree-3.svg'
-import Button from './Button';
+import CardWithImage from '../../CardWithImage';
+import CardText from '../../CardText';
+import CardList from '../../CardList';
+import KeyPoints from '../../KeyPoints';
+import iconCarrot from '../../icons/carrot.svg'
+import iconSolarPanel from '../../icons/045-solar-panel.svg'
+import iconElectricCar from '../../icons/010-electric-car.svg'
+import iconTree1 from '../../icons/tree-1.svg'
+import iconTree2 from '../../icons/tree-2.svg'
+import iconTree3 from '../../icons/tree-3.svg'
+import Button from '../../Button';
 
 const co2Generated = [
   {
