@@ -9,6 +9,7 @@ import Faq from "./Screens/Faq";
 import Footer from "./Footer/Footer";
 import Project from "./Screens/Project/Project";
 import Contact from "./Screens/Contact/Contact";
+import Signup from "./User/Signup/Signup";
 
 const Main = () => (
     <BrowserRouter basename={process.env.PUBLIC_URL}>
@@ -20,6 +21,7 @@ const Main = () => (
             <Route path="/faq" component={Faq}/>
             <Route path="/project" component={Project}/>
             <Route path="/contact" component={Contact}/>
+            <Route path="/signup" component={Signup}/>
         </div>
         <Footer/>
     </BrowserRouter>

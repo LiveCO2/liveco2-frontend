@@ -77,15 +77,15 @@ const Home = () => (
             <div className="homeImpactStats">
                <div className="homeImpactStat">
                    <h4>Hectareas de bosque auditadas</h4>
-                   <h4 className="homeImpactStatNumber">10.9</h4>
+                   <div className="homeImpactStatNumber" value="10.9">10.9</div>
                </div>
                <div className="homeImpactStat">
                    <h4>Toneladas Absorbidas auditadas</h4>
-                   <h4 className="homeImpactStatNumber">152.89</h4>
+                   <div className="homeImpactStatNumber" value="152.89">152.89</div>
                </div>
                <div className="homeImpactStat">
                    <h4>Toneladas de carbono compensadas</h4>
-                   <h4 className="homeImpactStatNumber">87.12</h4>
+                   <div className="homeImpactStatNumber" value="87.12">87.12</div>
                </div>
             </div>
         </div>

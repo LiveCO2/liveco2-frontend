@@ -260,5 +260,23 @@
                  "bio": "Lorem Impsum biography of the member. Three lines describing his achivements and strengths"
              }
          }
+     },
+     "user": {
+         "signup": {
+             "title": "Crea una cuenta en LiveCO2",
+             "firstname": "Nombre",
+             "lastname": "Apellidos",
+             "email": "Correo electronico",
+             "password": "Contrasena",
+             "errors": {
+                 "firstname": "El nombre tiene que tener menos de 30 caracteres",
+                 "lastname": "Los apellidos tienen que tener menos de 100 caracteres",
+                 "email": "La direccion de email es incorrecta",
+                 "password": "La contrasenya debe contener 12 caracteres y almenos un numero y un caracter especial (!@$%&()_+={};,.<>"
+             }
+         },
+         "signin": {
+             "title": "Inicia sesion"
+         }
      }
 }

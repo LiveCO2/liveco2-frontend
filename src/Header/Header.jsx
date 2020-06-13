@@ -13,6 +13,7 @@ const Header = () => (
             <NavLink className="header-link" to="/faq"><Trans i18nKey="header.faq"/></NavLink>
             <NavLink className="header-link" to="/project"><Trans i18nKey="header.project"/></NavLink>
             <NavLink className="header-link" to="/contact"><Trans i18nKey="header.contact"/></NavLink>
+            <NavLink className="header-link" to="/signup">Registrate</NavLink>
         </div>
         <div className="header-right">
           <div className="userDropdown">
