@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/compensate/static/css/main.4daadbe7.chunk.css",
-    "main.js": "/compensate/static/js/main.8e92daef.chunk.js",
-    "main.js.map": "/compensate/static/js/main.8e92daef.chunk.js.map",
+    "main.css": "/compensate/static/css/main.c3546a7f.chunk.css",
+    "main.js": "/compensate/static/js/main.f753e059.chunk.js",
+    "main.js.map": "/compensate/static/js/main.f753e059.chunk.js.map",
     "runtime-main.js": "/compensate/static/js/runtime-main.40ee356a.js",
     "runtime-main.js.map": "/compensate/static/js/runtime-main.40ee356a.js.map",
     "static/js/2.7aa3cea1.chunk.js": "/compensate/static/js/2.7aa3cea1.chunk.js",
     "static/js/2.7aa3cea1.chunk.js.map": "/compensate/static/js/2.7aa3cea1.chunk.js.map",
     "index.html": "/compensate/index.html",
-    "precache-manifest.c99d408be940afd9f220742895040515.js": "/compensate/precache-manifest.c99d408be940afd9f220742895040515.js",
+    "precache-manifest.df698f4f41e120fe2a100db0129a8ac7.js": "/compensate/precache-manifest.df698f4f41e120fe2a100db0129a8ac7.js",
     "service-worker.js": "/compensate/service-worker.js",
-    "static/css/main.4daadbe7.chunk.css.map": "/compensate/static/css/main.4daadbe7.chunk.css.map",
+    "static/css/main.c3546a7f.chunk.css.map": "/compensate/static/css/main.c3546a7f.chunk.css.map",
     "static/js/2.7aa3cea1.chunk.js.LICENSE.txt": "/compensate/static/js/2.7aa3cea1.chunk.js.LICENSE.txt",
     "static/media/010-electric-car.svg": "/compensate/static/media/010-electric-car.e7d3f73c.svg",
     "static/media/045-solar-panel.svg": "/compensate/static/media/045-solar-panel.5acd37d5.svg",
@@ -46,7 +46,7 @@
   "entrypoints": [
     "static/js/runtime-main.40ee356a.js",
     "static/js/2.7aa3cea1.chunk.js",
-    "static/css/main.4daadbe7.chunk.css",
-    "static/js/main.8e92daef.chunk.js"
+    "static/css/main.c3546a7f.chunk.css",
+    "static/js/main.f753e059.chunk.js"
   ]
 }
