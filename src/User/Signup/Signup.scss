@@ -1,11 +1,64 @@
-.signupForm {
+.sign {
     display: flex;
-    flex-direction: column;
-    max-width: 500px;
+    justify-content: center;
+    padding-top: 50px;
+    justify-content: space-evenly;
+    max-width: 70%;
+    margin: auto;
 }
 
-.signin {
+.signBox {
+    max-width: 500px;
+    padding-right: 50px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    background-color: rgba(195, 206, 180, 0.6);
+    min-width: 300px;
+
+    >h2 {
+        padding-top: 15px;
+        padding-left: 15px;
+        max-width: 70%;
+    }
+    >h5 {
+        padding-top: 5px;
+        padding-left: 15px;
+    }
+}
+
+.signupForm {
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+
+}
+
+.signupStep {
     display: flex;
     flex-direction: column;
-    max-width: 500px;
+
+    >input {
+        margin-top: 5px;
+        margin-bottom: 15px;
+        width: 80%;
+        height: 25px;
+    }
+
+    >label {
+    }
+
+    >p {
+        max-width: 70%;
+    }
+}
+
+.passwordRequirements {
+    padding-left: 25px;
+    padding-bottom: 2px;
+}
+
+.formError {
+    font-size: 15px;
+    font-style: bold;
+    color: red;
 }

@@ -16,6 +16,10 @@ h1, h2, , h3, h4, h5, p, ul, li, a {
     font-family: 'Nunito', bold;
 }
 
+label {
+    font-family: 'Nunito', bold;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -62,4 +66,10 @@ p {
 .text-big {
     font-size: 16px;
     font-family: 'Nunito', bold;
+}
+
+input {
+    box-sizing: border-box;
+    border-radius: 2px;
+    border: 0.4px solid black;
 }

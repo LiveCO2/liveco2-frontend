@@ -266,17 +266,24 @@
              "title": "Crea una cuenta en LiveCO2",
              "firstname": "Nombre",
              "lastname": "Apellidos",
-             "email": "Correo electronico",
-             "password": "Contrasena",
+             "email": "Email",
+             "password": "Contraseña",
+             "pw-const-1": "Debe tener al menos 12 caracteres",
+             "pw-const-2": "Debe contener al menos 1 numero",
+             "pw-const-3": "Debe contener al menos un caracter entre los siguientes: !@$%&()_+={};,.",
+             "button": "Unete",
+             "disclaimer": "Clicando en 'Empieza' estaras creando una cuenta en LiveCO2 y aceptando nuestros Terminos de Uso y Politica de Privacidad", 
              "errors": {
                  "firstname": "El nombre tiene que tener menos de 30 caracteres",
                  "lastname": "Los apellidos tienen que tener menos de 100 caracteres",
                  "email": "La direccion de email es incorrecta",
-                 "password": "La contrasenya debe contener 12 caracteres y almenos un numero y un caracter especial (!@$%&()_+={};,.<>"
+                 "password": "La contraseña no cumple los requisitos"
              }
          },
          "signin": {
-             "title": "Inicia sesion"
+             "title": "Inicia sesion",
+             "email": "Email",
+             "password": "Contraseña" 
          }
      }
 }
