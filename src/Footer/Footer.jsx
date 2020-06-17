@@ -19,15 +19,15 @@ const Footer = () => (
         <div className="footer-main">
             <div className="footer-main-element">
                 <p><b><Trans i18nKey="footer.main.section1.title"/></b></p>
-                <p className="text-small"><Trans i18nKey="footer.main.section1.item1"/></p>
+                <p className="text-small"><a href="/project"><Trans i18nKey="footer.main.section1.item1"/></a></p>
                 <p className="text-small"><Trans i18nKey="footer.main.section1.item2"/></p>
                 <p className="text-small"><Trans i18nKey="footer.main.section1.item3"/></p>
             </div>
             <div className="footer-main-element">
                 <p><b><Trans i18nKey="footer.main.section2.title"/></b></p>
-                <p className="text-small"><Trans i18nKey="footer.main.section2.item1"/></p>
-                <p className="text-small"><Trans i18nKey="footer.main.section2.item2"/></p>
-                <p className="text-small"><Trans i18nKey="footer.main.section2.item3"/></p>
+                <p className="text-small"><a href="/compensate"><Trans i18nKey="footer.main.section2.item1"/></a></p>
+                <p className="text-small"><a href="/enroll-trees"><Trans i18nKey="footer.main.section2.item2"/></a></p>
+                <p className="text-small"><a href="/contact"><Trans i18nKey="footer.main.section2.item3"/></a></p>
             </div>
             <div className="footer-main-element">
                 <p><b><Trans i18nKey="footer.main.section3.title"/></b></p>
